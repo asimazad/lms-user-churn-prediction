@@ -1,0 +1,1501 @@
+user_id,churn_probability,risk_level,recommended_support
+U0001,0.893,High,Offer a personal check-in and help identify barriers.
+U0002,0.26,Low,Continue normal engagement and offer optional enrichment.
+U0003,0.653,High,Offer a personal check-in and help identify barriers.
+U0004,0.47,Medium,Send a supportive reminder and monitor engagement.
+U0005,0.357,Medium,Send a supportive reminder and monitor engagement.
+U0006,0.176,Low,Continue normal engagement and offer optional enrichment.
+U0007,0.118,Low,Continue normal engagement and offer optional enrichment.
+U0008,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0009,0.63,High,Offer a personal check-in and help identify barriers.
+U0010,0.292,Low,Continue normal engagement and offer optional enrichment.
+U0011,0.5,Medium,Send a supportive reminder and monitor engagement.
+U0012,0.292,Low,Continue normal engagement and offer optional enrichment.
+U0013,0.22,Low,Continue normal engagement and offer optional enrichment.
+U0014,0.288,Low,Continue normal engagement and offer optional enrichment.
+U0015,0.272,Low,Continue normal engagement and offer optional enrichment.
+U0016,0.352,Medium,Send a supportive reminder and monitor engagement.
+U0017,0.092,Low,Continue normal engagement and offer optional enrichment.
+U0018,0.762,High,Offer a personal check-in and help identify barriers.
+U0019,0.464,Medium,Send a supportive reminder and monitor engagement.
+U0020,0.285,Low,Continue normal engagement and offer optional enrichment.
+U0021,0.256,Low,Continue normal engagement and offer optional enrichment.
+U0022,0.281,Low,Continue normal engagement and offer optional enrichment.
+U0023,0.653,High,Offer a personal check-in and help identify barriers.
+U0024,0.464,Medium,Send a supportive reminder and monitor engagement.
+U0025,0.556,Medium,Send a supportive reminder and monitor engagement.
+U0026,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0027,0.296,Low,Continue normal engagement and offer optional enrichment.
+U0028,0.49,Medium,Send a supportive reminder and monitor engagement.
+U0029,0.225,Low,Continue normal engagement and offer optional enrichment.
+U0030,0.312,Medium,Send a supportive reminder and monitor engagement.
+U0031,0.329,Medium,Send a supportive reminder and monitor engagement.
+U0032,0.394,Medium,Send a supportive reminder and monitor engagement.
+U0033,0.748,High,Offer a personal check-in and help identify barriers.
+U0034,0.602,High,Offer a personal check-in and help identify barriers.
+U0035,0.394,Medium,Send a supportive reminder and monitor engagement.
+U0036,0.06,Low,Continue normal engagement and offer optional enrichment.
+U0037,0.346,Medium,Send a supportive reminder and monitor engagement.
+U0038,0.535,Medium,Send a supportive reminder and monitor engagement.
+U0039,0.229,Low,Continue normal engagement and offer optional enrichment.
+U0040,0.283,Low,Continue normal engagement and offer optional enrichment.
+U0041,0.322,Medium,Send a supportive reminder and monitor engagement.
+U0042,0.423,Medium,Send a supportive reminder and monitor engagement.
+U0043,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0044,0.195,Low,Continue normal engagement and offer optional enrichment.
+U0045,0.07,Low,Continue normal engagement and offer optional enrichment.
+U0046,0.251,Low,Continue normal engagement and offer optional enrichment.
+U0047,0.692,High,Offer a personal check-in and help identify barriers.
+U0048,0.743,High,Offer a personal check-in and help identify barriers.
+U0049,0.575,Medium,Send a supportive reminder and monitor engagement.
+U0050,0.335,Medium,Send a supportive reminder and monitor engagement.
+U0051,0.553,Medium,Send a supportive reminder and monitor engagement.
+U0052,0.243,Low,Continue normal engagement and offer optional enrichment.
+U0053,0.165,Low,Continue normal engagement and offer optional enrichment.
+U0054,0.185,Low,Continue normal engagement and offer optional enrichment.
+U0055,0.236,Low,Continue normal engagement and offer optional enrichment.
+U0056,0.893,High,Offer a personal check-in and help identify barriers.
+U0057,0.422,Medium,Send a supportive reminder and monitor engagement.
+U0058,0.5,Medium,Send a supportive reminder and monitor engagement.
+U0059,0.556,Medium,Send a supportive reminder and monitor engagement.
+U0060,0.121,Low,Continue normal engagement and offer optional enrichment.
+U0061,0.66,High,Offer a personal check-in and help identify barriers.
+U0062,0.638,High,Offer a personal check-in and help identify barriers.
+U0063,0.542,Medium,Send a supportive reminder and monitor engagement.
+U0064,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0065,0.209,Low,Continue normal engagement and offer optional enrichment.
+U0066,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0067,0.214,Low,Continue normal engagement and offer optional enrichment.
+U0068,0.159,Low,Continue normal engagement and offer optional enrichment.
+U0069,0.414,Medium,Send a supportive reminder and monitor engagement.
+U0070,0.345,Medium,Send a supportive reminder and monitor engagement.
+U0071,0.621,High,Offer a personal check-in and help identify barriers.
+U0072,0.172,Low,Continue normal engagement and offer optional enrichment.
+U0073,0.433,Medium,Send a supportive reminder and monitor engagement.
+U0074,0.62,High,Offer a personal check-in and help identify barriers.
+U0075,0.33,Medium,Send a supportive reminder and monitor engagement.
+U0076,0.379,Medium,Send a supportive reminder and monitor engagement.
+U0077,0.457,Medium,Send a supportive reminder and monitor engagement.
+U0078,0.275,Low,Continue normal engagement and offer optional enrichment.
+U0079,0.323,Medium,Send a supportive reminder and monitor engagement.
+U0080,0.364,Medium,Send a supportive reminder and monitor engagement.
+U0081,0.781,High,Offer a personal check-in and help identify barriers.
+U0082,0.273,Low,Continue normal engagement and offer optional enrichment.
+U0083,0.415,Medium,Send a supportive reminder and monitor engagement.
+U0084,0.232,Low,Continue normal engagement and offer optional enrichment.
+U0085,0.553,Medium,Send a supportive reminder and monitor engagement.
+U0086,0.421,Medium,Send a supportive reminder and monitor engagement.
+U0087,0.252,Low,Continue normal engagement and offer optional enrichment.
+U0088,0.211,Low,Continue normal engagement and offer optional enrichment.
+U0089,0.286,Low,Continue normal engagement and offer optional enrichment.
+U0090,0.742,High,Offer a personal check-in and help identify barriers.
+U0091,0.111,Low,Continue normal engagement and offer optional enrichment.
+U0092,0.403,Medium,Send a supportive reminder and monitor engagement.
+U0093,0.473,Medium,Send a supportive reminder and monitor engagement.
+U0094,0.357,Medium,Send a supportive reminder and monitor engagement.
+U0095,0.449,Medium,Send a supportive reminder and monitor engagement.
+U0096,0.344,Medium,Send a supportive reminder and monitor engagement.
+U0097,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0098,0.332,Medium,Send a supportive reminder and monitor engagement.
+U0099,0.166,Low,Continue normal engagement and offer optional enrichment.
+U0100,0.283,Low,Continue normal engagement and offer optional enrichment.
+U0101,0.194,Low,Continue normal engagement and offer optional enrichment.
+U0102,0.55,Medium,Send a supportive reminder and monitor engagement.
+U0103,0.802,High,Offer a personal check-in and help identify barriers.
+U0104,0.249,Low,Continue normal engagement and offer optional enrichment.
+U0105,0.107,Low,Continue normal engagement and offer optional enrichment.
+U0106,0.345,Medium,Send a supportive reminder and monitor engagement.
+U0107,0.243,Low,Continue normal engagement and offer optional enrichment.
+U0108,0.552,Medium,Send a supportive reminder and monitor engagement.
+U0109,0.162,Low,Continue normal engagement and offer optional enrichment.
+U0110,0.717,High,Offer a personal check-in and help identify barriers.
+U0111,0.114,Low,Continue normal engagement and offer optional enrichment.
+U0112,0.464,Medium,Send a supportive reminder and monitor engagement.
+U0113,0.262,Low,Continue normal engagement and offer optional enrichment.
+U0114,0.297,Low,Continue normal engagement and offer optional enrichment.
+U0115,0.208,Low,Continue normal engagement and offer optional enrichment.
+U0116,0.765,High,Offer a personal check-in and help identify barriers.
+U0117,0.182,Low,Continue normal engagement and offer optional enrichment.
+U0118,0.42,Medium,Send a supportive reminder and monitor engagement.
+U0119,0.654,High,Offer a personal check-in and help identify barriers.
+U0120,0.183,Low,Continue normal engagement and offer optional enrichment.
+U0121,0.165,Low,Continue normal engagement and offer optional enrichment.
+U0122,0.129,Low,Continue normal engagement and offer optional enrichment.
+U0123,0.508,Medium,Send a supportive reminder and monitor engagement.
+U0124,0.226,Low,Continue normal engagement and offer optional enrichment.
+U0125,0.259,Low,Continue normal engagement and offer optional enrichment.
+U0126,0.423,Medium,Send a supportive reminder and monitor engagement.
+U0127,0.205,Low,Continue normal engagement and offer optional enrichment.
+U0128,0.5,Medium,Send a supportive reminder and monitor engagement.
+U0129,0.262,Low,Continue normal engagement and offer optional enrichment.
+U0130,0.174,Low,Continue normal engagement and offer optional enrichment.
+U0131,0.476,Medium,Send a supportive reminder and monitor engagement.
+U0132,0.783,High,Offer a personal check-in and help identify barriers.
+U0133,0.353,Medium,Send a supportive reminder and monitor engagement.
+U0134,0.451,Medium,Send a supportive reminder and monitor engagement.
+U0135,0.223,Low,Continue normal engagement and offer optional enrichment.
+U0136,0.46,Medium,Send a supportive reminder and monitor engagement.
+U0137,0.478,Medium,Send a supportive reminder and monitor engagement.
+U0138,0.468,Medium,Send a supportive reminder and monitor engagement.
+U0139,0.222,Low,Continue normal engagement and offer optional enrichment.
+U0140,0.751,High,Offer a personal check-in and help identify barriers.
+U0141,0.401,Medium,Send a supportive reminder and monitor engagement.
+U0142,0.209,Low,Continue normal engagement and offer optional enrichment.
+U0143,0.93,High,Offer a personal check-in and help identify barriers.
+U0144,0.198,Low,Continue normal engagement and offer optional enrichment.
+U0145,0.228,Low,Continue normal engagement and offer optional enrichment.
+U0146,0.096,Low,Continue normal engagement and offer optional enrichment.
+U0147,0.278,Low,Continue normal engagement and offer optional enrichment.
+U0148,0.212,Low,Continue normal engagement and offer optional enrichment.
+U0149,0.395,Medium,Send a supportive reminder and monitor engagement.
+U0150,0.197,Low,Continue normal engagement and offer optional enrichment.
+U0151,0.225,Low,Continue normal engagement and offer optional enrichment.
+U0152,0.151,Low,Continue normal engagement and offer optional enrichment.
+U0153,0.131,Low,Continue normal engagement and offer optional enrichment.
+U0154,0.454,Medium,Send a supportive reminder and monitor engagement.
+U0155,0.265,Low,Continue normal engagement and offer optional enrichment.
+U0156,0.266,Low,Continue normal engagement and offer optional enrichment.
+U0157,0.398,Medium,Send a supportive reminder and monitor engagement.
+U0158,0.448,Medium,Send a supportive reminder and monitor engagement.
+U0159,0.223,Low,Continue normal engagement and offer optional enrichment.
+U0160,0.347,Medium,Send a supportive reminder and monitor engagement.
+U0161,0.498,Medium,Send a supportive reminder and monitor engagement.
+U0162,0.348,Medium,Send a supportive reminder and monitor engagement.
+U0163,0.256,Low,Continue normal engagement and offer optional enrichment.
+U0164,0.206,Low,Continue normal engagement and offer optional enrichment.
+U0165,0.393,Medium,Send a supportive reminder and monitor engagement.
+U0166,0.517,Medium,Send a supportive reminder and monitor engagement.
+U0167,0.745,High,Offer a personal check-in and help identify barriers.
+U0168,0.399,Medium,Send a supportive reminder and monitor engagement.
+U0169,0.208,Low,Continue normal engagement and offer optional enrichment.
+U0170,0.104,Low,Continue normal engagement and offer optional enrichment.
+U0171,0.724,High,Offer a personal check-in and help identify barriers.
+U0172,0.27,Low,Continue normal engagement and offer optional enrichment.
+U0173,0.206,Low,Continue normal engagement and offer optional enrichment.
+U0174,0.229,Low,Continue normal engagement and offer optional enrichment.
+U0175,0.356,Medium,Send a supportive reminder and monitor engagement.
+U0176,0.119,Low,Continue normal engagement and offer optional enrichment.
+U0177,0.448,Medium,Send a supportive reminder and monitor engagement.
+U0178,0.836,High,Offer a personal check-in and help identify barriers.
+U0179,0.723,High,Offer a personal check-in and help identify barriers.
+U0180,0.295,Low,Continue normal engagement and offer optional enrichment.
+U0181,0.224,Low,Continue normal engagement and offer optional enrichment.
+U0182,0.266,Low,Continue normal engagement and offer optional enrichment.
+U0183,0.59,Medium,Send a supportive reminder and monitor engagement.
+U0184,0.245,Low,Continue normal engagement and offer optional enrichment.
+U0185,0.293,Low,Continue normal engagement and offer optional enrichment.
+U0186,0.205,Low,Continue normal engagement and offer optional enrichment.
+U0187,0.128,Low,Continue normal engagement and offer optional enrichment.
+U0188,0.108,Low,Continue normal engagement and offer optional enrichment.
+U0189,0.471,Medium,Send a supportive reminder and monitor engagement.
+U0190,0.79,High,Offer a personal check-in and help identify barriers.
+U0191,0.89,High,Offer a personal check-in and help identify barriers.
+U0192,0.348,Medium,Send a supportive reminder and monitor engagement.
+U0193,0.493,Medium,Send a supportive reminder and monitor engagement.
+U0194,0.673,High,Offer a personal check-in and help identify barriers.
+U0195,0.849,High,Offer a personal check-in and help identify barriers.
+U0196,0.882,High,Offer a personal check-in and help identify barriers.
+U0197,0.893,High,Offer a personal check-in and help identify barriers.
+U0198,0.219,Low,Continue normal engagement and offer optional enrichment.
+U0199,0.491,Medium,Send a supportive reminder and monitor engagement.
+U0200,0.536,Medium,Send a supportive reminder and monitor engagement.
+U0201,0.215,Low,Continue normal engagement and offer optional enrichment.
+U0202,0.303,Medium,Send a supportive reminder and monitor engagement.
+U0203,0.284,Low,Continue normal engagement and offer optional enrichment.
+U0204,0.449,Medium,Send a supportive reminder and monitor engagement.
+U0205,0.518,Medium,Send a supportive reminder and monitor engagement.
+U0206,0.306,Medium,Send a supportive reminder and monitor engagement.
+U0207,0.256,Low,Continue normal engagement and offer optional enrichment.
+U0208,0.66,High,Offer a personal check-in and help identify barriers.
+U0209,0.249,Low,Continue normal engagement and offer optional enrichment.
+U0210,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0211,0.441,Medium,Send a supportive reminder and monitor engagement.
+U0212,0.244,Low,Continue normal engagement and offer optional enrichment.
+U0213,0.37,Medium,Send a supportive reminder and monitor engagement.
+U0214,0.304,Medium,Send a supportive reminder and monitor engagement.
+U0215,0.32,Medium,Send a supportive reminder and monitor engagement.
+U0216,0.255,Low,Continue normal engagement and offer optional enrichment.
+U0217,0.094,Low,Continue normal engagement and offer optional enrichment.
+U0218,0.152,Low,Continue normal engagement and offer optional enrichment.
+U0219,0.421,Medium,Send a supportive reminder and monitor engagement.
+U0220,0.497,Medium,Send a supportive reminder and monitor engagement.
+U0221,0.275,Low,Continue normal engagement and offer optional enrichment.
+U0222,0.541,Medium,Send a supportive reminder and monitor engagement.
+U0223,0.554,Medium,Send a supportive reminder and monitor engagement.
+U0224,0.159,Low,Continue normal engagement and offer optional enrichment.
+U0225,0.881,High,Offer a personal check-in and help identify barriers.
+U0226,0.228,Low,Continue normal engagement and offer optional enrichment.
+U0227,0.276,Low,Continue normal engagement and offer optional enrichment.
+U0228,0.209,Low,Continue normal engagement and offer optional enrichment.
+U0229,0.698,High,Offer a personal check-in and help identify barriers.
+U0230,0.282,Low,Continue normal engagement and offer optional enrichment.
+U0231,0.281,Low,Continue normal engagement and offer optional enrichment.
+U0232,0.687,High,Offer a personal check-in and help identify barriers.
+U0233,0.428,Medium,Send a supportive reminder and monitor engagement.
+U0234,0.31,Medium,Send a supportive reminder and monitor engagement.
+U0235,0.145,Low,Continue normal engagement and offer optional enrichment.
+U0236,0.362,Medium,Send a supportive reminder and monitor engagement.
+U0237,0.349,Medium,Send a supportive reminder and monitor engagement.
+U0238,0.311,Medium,Send a supportive reminder and monitor engagement.
+U0239,0.569,Medium,Send a supportive reminder and monitor engagement.
+U0240,0.326,Medium,Send a supportive reminder and monitor engagement.
+U0241,0.681,High,Offer a personal check-in and help identify barriers.
+U0242,0.269,Low,Continue normal engagement and offer optional enrichment.
+U0243,0.193,Low,Continue normal engagement and offer optional enrichment.
+U0244,0.513,Medium,Send a supportive reminder and monitor engagement.
+U0245,0.522,Medium,Send a supportive reminder and monitor engagement.
+U0246,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0247,0.182,Low,Continue normal engagement and offer optional enrichment.
+U0248,0.294,Low,Continue normal engagement and offer optional enrichment.
+U0249,0.263,Low,Continue normal engagement and offer optional enrichment.
+U0250,0.434,Medium,Send a supportive reminder and monitor engagement.
+U0251,0.677,High,Offer a personal check-in and help identify barriers.
+U0252,0.227,Low,Continue normal engagement and offer optional enrichment.
+U0253,0.416,Medium,Send a supportive reminder and monitor engagement.
+U0254,0.686,High,Offer a personal check-in and help identify barriers.
+U0255,0.416,Medium,Send a supportive reminder and monitor engagement.
+U0256,0.38,Medium,Send a supportive reminder and monitor engagement.
+U0257,0.771,High,Offer a personal check-in and help identify barriers.
+U0258,0.191,Low,Continue normal engagement and offer optional enrichment.
+U0259,0.29,Low,Continue normal engagement and offer optional enrichment.
+U0260,0.568,Medium,Send a supportive reminder and monitor engagement.
+U0261,0.485,Medium,Send a supportive reminder and monitor engagement.
+U0262,0.42,Medium,Send a supportive reminder and monitor engagement.
+U0263,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0264,0.592,Medium,Send a supportive reminder and monitor engagement.
+U0265,0.455,Medium,Send a supportive reminder and monitor engagement.
+U0266,0.254,Low,Continue normal engagement and offer optional enrichment.
+U0267,0.233,Low,Continue normal engagement and offer optional enrichment.
+U0268,0.79,High,Offer a personal check-in and help identify barriers.
+U0269,0.898,High,Offer a personal check-in and help identify barriers.
+U0270,0.578,Medium,Send a supportive reminder and monitor engagement.
+U0271,0.704,High,Offer a personal check-in and help identify barriers.
+U0272,0.212,Low,Continue normal engagement and offer optional enrichment.
+U0273,0.851,High,Offer a personal check-in and help identify barriers.
+U0274,0.275,Low,Continue normal engagement and offer optional enrichment.
+U0275,0.256,Low,Continue normal engagement and offer optional enrichment.
+U0276,0.828,High,Offer a personal check-in and help identify barriers.
+U0277,0.522,Medium,Send a supportive reminder and monitor engagement.
+U0278,0.249,Low,Continue normal engagement and offer optional enrichment.
+U0279,0.738,High,Offer a personal check-in and help identify barriers.
+U0280,0.681,High,Offer a personal check-in and help identify barriers.
+U0281,0.392,Medium,Send a supportive reminder and monitor engagement.
+U0282,0.664,High,Offer a personal check-in and help identify barriers.
+U0283,0.799,High,Offer a personal check-in and help identify barriers.
+U0284,0.498,Medium,Send a supportive reminder and monitor engagement.
+U0285,0.45,Medium,Send a supportive reminder and monitor engagement.
+U0286,0.226,Low,Continue normal engagement and offer optional enrichment.
+U0287,0.228,Low,Continue normal engagement and offer optional enrichment.
+U0288,0.471,Medium,Send a supportive reminder and monitor engagement.
+U0289,0.287,Low,Continue normal engagement and offer optional enrichment.
+U0290,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0291,0.174,Low,Continue normal engagement and offer optional enrichment.
+U0292,0.103,Low,Continue normal engagement and offer optional enrichment.
+U0293,0.449,Medium,Send a supportive reminder and monitor engagement.
+U0294,0.461,Medium,Send a supportive reminder and monitor engagement.
+U0295,0.166,Low,Continue normal engagement and offer optional enrichment.
+U0296,0.657,High,Offer a personal check-in and help identify barriers.
+U0297,0.341,Medium,Send a supportive reminder and monitor engagement.
+U0298,0.198,Low,Continue normal engagement and offer optional enrichment.
+U0299,0.243,Low,Continue normal engagement and offer optional enrichment.
+U0300,0.23,Low,Continue normal engagement and offer optional enrichment.
+U0301,0.379,Medium,Send a supportive reminder and monitor engagement.
+U0302,0.352,Medium,Send a supportive reminder and monitor engagement.
+U0303,0.374,Medium,Send a supportive reminder and monitor engagement.
+U0304,0.206,Low,Continue normal engagement and offer optional enrichment.
+U0305,0.124,Low,Continue normal engagement and offer optional enrichment.
+U0306,0.457,Medium,Send a supportive reminder and monitor engagement.
+U0307,0.516,Medium,Send a supportive reminder and monitor engagement.
+U0308,0.263,Low,Continue normal engagement and offer optional enrichment.
+U0309,0.55,Medium,Send a supportive reminder and monitor engagement.
+U0310,0.289,Low,Continue normal engagement and offer optional enrichment.
+U0311,0.274,Low,Continue normal engagement and offer optional enrichment.
+U0312,0.725,High,Offer a personal check-in and help identify barriers.
+U0313,0.262,Low,Continue normal engagement and offer optional enrichment.
+U0314,0.292,Low,Continue normal engagement and offer optional enrichment.
+U0315,0.139,Low,Continue normal engagement and offer optional enrichment.
+U0316,0.241,Low,Continue normal engagement and offer optional enrichment.
+U0317,0.11,Low,Continue normal engagement and offer optional enrichment.
+U0318,0.325,Medium,Send a supportive reminder and monitor engagement.
+U0319,0.806,High,Offer a personal check-in and help identify barriers.
+U0320,0.267,Low,Continue normal engagement and offer optional enrichment.
+U0321,0.789,High,Offer a personal check-in and help identify barriers.
+U0322,0.149,Low,Continue normal engagement and offer optional enrichment.
+U0323,0.239,Low,Continue normal engagement and offer optional enrichment.
+U0324,0.451,Medium,Send a supportive reminder and monitor engagement.
+U0325,0.432,Medium,Send a supportive reminder and monitor engagement.
+U0326,0.154,Low,Continue normal engagement and offer optional enrichment.
+U0327,0.334,Medium,Send a supportive reminder and monitor engagement.
+U0328,0.282,Low,Continue normal engagement and offer optional enrichment.
+U0329,0.297,Low,Continue normal engagement and offer optional enrichment.
+U0330,0.37,Medium,Send a supportive reminder and monitor engagement.
+U0331,0.533,Medium,Send a supportive reminder and monitor engagement.
+U0332,0.602,High,Offer a personal check-in and help identify barriers.
+U0333,0.341,Medium,Send a supportive reminder and monitor engagement.
+U0334,0.357,Medium,Send a supportive reminder and monitor engagement.
+U0335,0.51,Medium,Send a supportive reminder and monitor engagement.
+U0336,0.43,Medium,Send a supportive reminder and monitor engagement.
+U0337,0.156,Low,Continue normal engagement and offer optional enrichment.
+U0338,0.459,Medium,Send a supportive reminder and monitor engagement.
+U0339,0.308,Medium,Send a supportive reminder and monitor engagement.
+U0340,0.237,Low,Continue normal engagement and offer optional enrichment.
+U0341,0.125,Low,Continue normal engagement and offer optional enrichment.
+U0342,0.313,Medium,Send a supportive reminder and monitor engagement.
+U0343,0.14,Low,Continue normal engagement and offer optional enrichment.
+U0344,0.818,High,Offer a personal check-in and help identify barriers.
+U0345,0.267,Low,Continue normal engagement and offer optional enrichment.
+U0346,0.285,Low,Continue normal engagement and offer optional enrichment.
+U0347,0.065,Low,Continue normal engagement and offer optional enrichment.
+U0348,0.455,Medium,Send a supportive reminder and monitor engagement.
+U0349,0.39,Medium,Send a supportive reminder and monitor engagement.
+U0350,0.394,Medium,Send a supportive reminder and monitor engagement.
+U0351,0.587,Medium,Send a supportive reminder and monitor engagement.
+U0352,0.185,Low,Continue normal engagement and offer optional enrichment.
+U0353,0.223,Low,Continue normal engagement and offer optional enrichment.
+U0354,0.18,Low,Continue normal engagement and offer optional enrichment.
+U0355,0.311,Medium,Send a supportive reminder and monitor engagement.
+U0356,0.204,Low,Continue normal engagement and offer optional enrichment.
+U0357,0.403,Medium,Send a supportive reminder and monitor engagement.
+U0358,0.163,Low,Continue normal engagement and offer optional enrichment.
+U0359,0.34,Medium,Send a supportive reminder and monitor engagement.
+U0360,0.379,Medium,Send a supportive reminder and monitor engagement.
+U0361,0.255,Low,Continue normal engagement and offer optional enrichment.
+U0362,0.204,Low,Continue normal engagement and offer optional enrichment.
+U0363,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0364,0.475,Medium,Send a supportive reminder and monitor engagement.
+U0365,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0366,0.874,High,Offer a personal check-in and help identify barriers.
+U0367,0.309,Medium,Send a supportive reminder and monitor engagement.
+U0368,0.352,Medium,Send a supportive reminder and monitor engagement.
+U0369,0.374,Medium,Send a supportive reminder and monitor engagement.
+U0370,0.176,Low,Continue normal engagement and offer optional enrichment.
+U0371,0.437,Medium,Send a supportive reminder and monitor engagement.
+U0372,0.523,Medium,Send a supportive reminder and monitor engagement.
+U0373,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0374,0.27,Low,Continue normal engagement and offer optional enrichment.
+U0375,0.861,High,Offer a personal check-in and help identify barriers.
+U0376,0.403,Medium,Send a supportive reminder and monitor engagement.
+U0377,0.314,Medium,Send a supportive reminder and monitor engagement.
+U0378,0.131,Low,Continue normal engagement and offer optional enrichment.
+U0379,0.282,Low,Continue normal engagement and offer optional enrichment.
+U0380,0.684,High,Offer a personal check-in and help identify barriers.
+U0381,0.146,Low,Continue normal engagement and offer optional enrichment.
+U0382,0.583,Medium,Send a supportive reminder and monitor engagement.
+U0383,0.323,Medium,Send a supportive reminder and monitor engagement.
+U0384,0.704,High,Offer a personal check-in and help identify barriers.
+U0385,0.655,High,Offer a personal check-in and help identify barriers.
+U0386,0.146,Low,Continue normal engagement and offer optional enrichment.
+U0387,0.398,Medium,Send a supportive reminder and monitor engagement.
+U0388,0.194,Low,Continue normal engagement and offer optional enrichment.
+U0389,0.25,Low,Continue normal engagement and offer optional enrichment.
+U0390,0.166,Low,Continue normal engagement and offer optional enrichment.
+U0391,0.227,Low,Continue normal engagement and offer optional enrichment.
+U0392,0.24,Low,Continue normal engagement and offer optional enrichment.
+U0393,0.497,Medium,Send a supportive reminder and monitor engagement.
+U0394,0.473,Medium,Send a supportive reminder and monitor engagement.
+U0395,0.36,Medium,Send a supportive reminder and monitor engagement.
+U0396,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0397,0.749,High,Offer a personal check-in and help identify barriers.
+U0398,0.338,Medium,Send a supportive reminder and monitor engagement.
+U0399,0.143,Low,Continue normal engagement and offer optional enrichment.
+U0400,0.437,Medium,Send a supportive reminder and monitor engagement.
+U0401,0.25,Low,Continue normal engagement and offer optional enrichment.
+U0402,0.305,Medium,Send a supportive reminder and monitor engagement.
+U0403,0.511,Medium,Send a supportive reminder and monitor engagement.
+U0404,0.542,Medium,Send a supportive reminder and monitor engagement.
+U0405,0.11,Low,Continue normal engagement and offer optional enrichment.
+U0406,0.279,Low,Continue normal engagement and offer optional enrichment.
+U0407,0.377,Medium,Send a supportive reminder and monitor engagement.
+U0408,0.227,Low,Continue normal engagement and offer optional enrichment.
+U0409,0.529,Medium,Send a supportive reminder and monitor engagement.
+U0410,0.735,High,Offer a personal check-in and help identify barriers.
+U0411,0.38,Medium,Send a supportive reminder and monitor engagement.
+U0412,0.27,Low,Continue normal engagement and offer optional enrichment.
+U0413,0.402,Medium,Send a supportive reminder and monitor engagement.
+U0414,0.287,Low,Continue normal engagement and offer optional enrichment.
+U0415,0.724,High,Offer a personal check-in and help identify barriers.
+U0416,0.833,High,Offer a personal check-in and help identify barriers.
+U0417,0.325,Medium,Send a supportive reminder and monitor engagement.
+U0418,0.246,Low,Continue normal engagement and offer optional enrichment.
+U0419,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0420,0.572,Medium,Send a supportive reminder and monitor engagement.
+U0421,0.579,Medium,Send a supportive reminder and monitor engagement.
+U0422,0.81,High,Offer a personal check-in and help identify barriers.
+U0423,0.465,Medium,Send a supportive reminder and monitor engagement.
+U0424,0.553,Medium,Send a supportive reminder and monitor engagement.
+U0425,0.441,Medium,Send a supportive reminder and monitor engagement.
+U0426,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0427,0.596,Medium,Send a supportive reminder and monitor engagement.
+U0428,0.483,Medium,Send a supportive reminder and monitor engagement.
+U0429,0.207,Low,Continue normal engagement and offer optional enrichment.
+U0430,0.887,High,Offer a personal check-in and help identify barriers.
+U0431,0.136,Low,Continue normal engagement and offer optional enrichment.
+U0432,0.514,Medium,Send a supportive reminder and monitor engagement.
+U0433,0.43,Medium,Send a supportive reminder and monitor engagement.
+U0434,0.609,High,Offer a personal check-in and help identify barriers.
+U0435,0.323,Medium,Send a supportive reminder and monitor engagement.
+U0436,0.268,Low,Continue normal engagement and offer optional enrichment.
+U0437,0.458,Medium,Send a supportive reminder and monitor engagement.
+U0438,0.404,Medium,Send a supportive reminder and monitor engagement.
+U0439,0.177,Low,Continue normal engagement and offer optional enrichment.
+U0440,0.776,High,Offer a personal check-in and help identify barriers.
+U0441,0.175,Low,Continue normal engagement and offer optional enrichment.
+U0442,0.49,Medium,Send a supportive reminder and monitor engagement.
+U0443,0.318,Medium,Send a supportive reminder and monitor engagement.
+U0444,0.25,Low,Continue normal engagement and offer optional enrichment.
+U0445,0.126,Low,Continue normal engagement and offer optional enrichment.
+U0446,0.569,Medium,Send a supportive reminder and monitor engagement.
+U0447,0.304,Medium,Send a supportive reminder and monitor engagement.
+U0448,0.396,Medium,Send a supportive reminder and monitor engagement.
+U0449,0.163,Low,Continue normal engagement and offer optional enrichment.
+U0450,0.623,High,Offer a personal check-in and help identify barriers.
+U0451,0.456,Medium,Send a supportive reminder and monitor engagement.
+U0452,0.192,Low,Continue normal engagement and offer optional enrichment.
+U0453,0.233,Low,Continue normal engagement and offer optional enrichment.
+U0454,0.725,High,Offer a personal check-in and help identify barriers.
+U0455,0.32,Medium,Send a supportive reminder and monitor engagement.
+U0456,0.768,High,Offer a personal check-in and help identify barriers.
+U0457,0.107,Low,Continue normal engagement and offer optional enrichment.
+U0458,0.25,Low,Continue normal engagement and offer optional enrichment.
+U0459,0.655,High,Offer a personal check-in and help identify barriers.
+U0460,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0461,0.456,Medium,Send a supportive reminder and monitor engagement.
+U0462,0.717,High,Offer a personal check-in and help identify barriers.
+U0463,0.285,Low,Continue normal engagement and offer optional enrichment.
+U0464,0.164,Low,Continue normal engagement and offer optional enrichment.
+U0465,0.352,Medium,Send a supportive reminder and monitor engagement.
+U0466,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0467,0.333,Medium,Send a supportive reminder and monitor engagement.
+U0468,0.505,Medium,Send a supportive reminder and monitor engagement.
+U0469,0.416,Medium,Send a supportive reminder and monitor engagement.
+U0470,0.233,Low,Continue normal engagement and offer optional enrichment.
+U0471,0.298,Low,Continue normal engagement and offer optional enrichment.
+U0472,0.288,Low,Continue normal engagement and offer optional enrichment.
+U0473,0.439,Medium,Send a supportive reminder and monitor engagement.
+U0474,0.224,Low,Continue normal engagement and offer optional enrichment.
+U0475,0.139,Low,Continue normal engagement and offer optional enrichment.
+U0476,0.411,Medium,Send a supportive reminder and monitor engagement.
+U0477,0.208,Low,Continue normal engagement and offer optional enrichment.
+U0478,0.177,Low,Continue normal engagement and offer optional enrichment.
+U0479,0.325,Medium,Send a supportive reminder and monitor engagement.
+U0480,0.289,Low,Continue normal engagement and offer optional enrichment.
+U0481,0.687,High,Offer a personal check-in and help identify barriers.
+U0482,0.378,Medium,Send a supportive reminder and monitor engagement.
+U0483,0.475,Medium,Send a supportive reminder and monitor engagement.
+U0484,0.246,Low,Continue normal engagement and offer optional enrichment.
+U0485,0.566,Medium,Send a supportive reminder and monitor engagement.
+U0486,0.253,Low,Continue normal engagement and offer optional enrichment.
+U0487,0.206,Low,Continue normal engagement and offer optional enrichment.
+U0488,0.45,Medium,Send a supportive reminder and monitor engagement.
+U0489,0.259,Low,Continue normal engagement and offer optional enrichment.
+U0490,0.347,Medium,Send a supportive reminder and monitor engagement.
+U0491,0.551,Medium,Send a supportive reminder and monitor engagement.
+U0492,0.642,High,Offer a personal check-in and help identify barriers.
+U0493,0.326,Medium,Send a supportive reminder and monitor engagement.
+U0494,0.694,High,Offer a personal check-in and help identify barriers.
+U0495,0.346,Medium,Send a supportive reminder and monitor engagement.
+U0496,0.356,Medium,Send a supportive reminder and monitor engagement.
+U0497,0.445,Medium,Send a supportive reminder and monitor engagement.
+U0498,0.593,Medium,Send a supportive reminder and monitor engagement.
+U0499,0.249,Low,Continue normal engagement and offer optional enrichment.
+U0500,0.339,Medium,Send a supportive reminder and monitor engagement.
+U0501,0.572,Medium,Send a supportive reminder and monitor engagement.
+U0502,0.384,Medium,Send a supportive reminder and monitor engagement.
+U0503,0.447,Medium,Send a supportive reminder and monitor engagement.
+U0504,0.292,Low,Continue normal engagement and offer optional enrichment.
+U0505,0.615,High,Offer a personal check-in and help identify barriers.
+U0506,0.781,High,Offer a personal check-in and help identify barriers.
+U0507,0.504,Medium,Send a supportive reminder and monitor engagement.
+U0508,0.296,Low,Continue normal engagement and offer optional enrichment.
+U0509,0.125,Low,Continue normal engagement and offer optional enrichment.
+U0510,0.618,High,Offer a personal check-in and help identify barriers.
+U0511,0.098,Low,Continue normal engagement and offer optional enrichment.
+U0512,0.23,Low,Continue normal engagement and offer optional enrichment.
+U0513,0.511,Medium,Send a supportive reminder and monitor engagement.
+U0514,0.308,Medium,Send a supportive reminder and monitor engagement.
+U0515,0.187,Low,Continue normal engagement and offer optional enrichment.
+U0516,0.415,Medium,Send a supportive reminder and monitor engagement.
+U0517,0.613,High,Offer a personal check-in and help identify barriers.
+U0518,0.326,Medium,Send a supportive reminder and monitor engagement.
+U0519,0.643,High,Offer a personal check-in and help identify barriers.
+U0520,0.858,High,Offer a personal check-in and help identify barriers.
+U0521,0.587,Medium,Send a supportive reminder and monitor engagement.
+U0522,0.327,Medium,Send a supportive reminder and monitor engagement.
+U0523,0.176,Low,Continue normal engagement and offer optional enrichment.
+U0524,0.46,Medium,Send a supportive reminder and monitor engagement.
+U0525,0.3,Low,Continue normal engagement and offer optional enrichment.
+U0526,0.181,Low,Continue normal engagement and offer optional enrichment.
+U0527,0.523,Medium,Send a supportive reminder and monitor engagement.
+U0528,0.776,High,Offer a personal check-in and help identify barriers.
+U0529,0.069,Low,Continue normal engagement and offer optional enrichment.
+U0530,0.498,Medium,Send a supportive reminder and monitor engagement.
+U0531,0.417,Medium,Send a supportive reminder and monitor engagement.
+U0532,0.318,Medium,Send a supportive reminder and monitor engagement.
+U0533,0.776,High,Offer a personal check-in and help identify barriers.
+U0534,0.524,Medium,Send a supportive reminder and monitor engagement.
+U0535,0.318,Medium,Send a supportive reminder and monitor engagement.
+U0536,0.194,Low,Continue normal engagement and offer optional enrichment.
+U0537,0.322,Medium,Send a supportive reminder and monitor engagement.
+U0538,0.393,Medium,Send a supportive reminder and monitor engagement.
+U0539,0.166,Low,Continue normal engagement and offer optional enrichment.
+U0540,0.318,Medium,Send a supportive reminder and monitor engagement.
+U0541,0.474,Medium,Send a supportive reminder and monitor engagement.
+U0542,0.5,Medium,Send a supportive reminder and monitor engagement.
+U0543,0.333,Medium,Send a supportive reminder and monitor engagement.
+U0544,0.62,High,Offer a personal check-in and help identify barriers.
+U0545,0.173,Low,Continue normal engagement and offer optional enrichment.
+U0546,0.249,Low,Continue normal engagement and offer optional enrichment.
+U0547,0.322,Medium,Send a supportive reminder and monitor engagement.
+U0548,0.139,Low,Continue normal engagement and offer optional enrichment.
+U0549,0.439,Medium,Send a supportive reminder and monitor engagement.
+U0550,0.502,Medium,Send a supportive reminder and monitor engagement.
+U0551,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0552,0.227,Low,Continue normal engagement and offer optional enrichment.
+U0553,0.664,High,Offer a personal check-in and help identify barriers.
+U0554,0.179,Low,Continue normal engagement and offer optional enrichment.
+U0555,0.165,Low,Continue normal engagement and offer optional enrichment.
+U0556,0.512,Medium,Send a supportive reminder and monitor engagement.
+U0557,0.754,High,Offer a personal check-in and help identify barriers.
+U0558,0.243,Low,Continue normal engagement and offer optional enrichment.
+U0559,0.327,Medium,Send a supportive reminder and monitor engagement.
+U0560,0.189,Low,Continue normal engagement and offer optional enrichment.
+U0561,0.841,High,Offer a personal check-in and help identify barriers.
+U0562,0.202,Low,Continue normal engagement and offer optional enrichment.
+U0563,0.35,Medium,Send a supportive reminder and monitor engagement.
+U0564,0.788,High,Offer a personal check-in and help identify barriers.
+U0565,0.29,Low,Continue normal engagement and offer optional enrichment.
+U0566,0.692,High,Offer a personal check-in and help identify barriers.
+U0567,0.325,Medium,Send a supportive reminder and monitor engagement.
+U0568,0.205,Low,Continue normal engagement and offer optional enrichment.
+U0569,0.614,High,Offer a personal check-in and help identify barriers.
+U0570,0.567,Medium,Send a supportive reminder and monitor engagement.
+U0571,0.183,Low,Continue normal engagement and offer optional enrichment.
+U0572,0.218,Low,Continue normal engagement and offer optional enrichment.
+U0573,0.302,Medium,Send a supportive reminder and monitor engagement.
+U0574,0.154,Low,Continue normal engagement and offer optional enrichment.
+U0575,0.77,High,Offer a personal check-in and help identify barriers.
+U0576,0.362,Medium,Send a supportive reminder and monitor engagement.
+U0577,0.318,Medium,Send a supportive reminder and monitor engagement.
+U0578,0.824,High,Offer a personal check-in and help identify barriers.
+U0579,0.627,High,Offer a personal check-in and help identify barriers.
+U0580,0.159,Low,Continue normal engagement and offer optional enrichment.
+U0581,0.34,Medium,Send a supportive reminder and monitor engagement.
+U0582,0.28,Low,Continue normal engagement and offer optional enrichment.
+U0583,0.676,High,Offer a personal check-in and help identify barriers.
+U0584,0.489,Medium,Send a supportive reminder and monitor engagement.
+U0585,0.719,High,Offer a personal check-in and help identify barriers.
+U0586,0.836,High,Offer a personal check-in and help identify barriers.
+U0587,0.268,Low,Continue normal engagement and offer optional enrichment.
+U0588,0.217,Low,Continue normal engagement and offer optional enrichment.
+U0589,0.245,Low,Continue normal engagement and offer optional enrichment.
+U0590,0.263,Low,Continue normal engagement and offer optional enrichment.
+U0591,0.887,High,Offer a personal check-in and help identify barriers.
+U0592,0.315,Medium,Send a supportive reminder and monitor engagement.
+U0593,0.184,Low,Continue normal engagement and offer optional enrichment.
+U0594,0.097,Low,Continue normal engagement and offer optional enrichment.
+U0595,0.076,Low,Continue normal engagement and offer optional enrichment.
+U0596,0.247,Low,Continue normal engagement and offer optional enrichment.
+U0597,0.532,Medium,Send a supportive reminder and monitor engagement.
+U0598,0.308,Medium,Send a supportive reminder and monitor engagement.
+U0599,0.307,Medium,Send a supportive reminder and monitor engagement.
+U0600,0.718,High,Offer a personal check-in and help identify barriers.
+U0601,0.405,Medium,Send a supportive reminder and monitor engagement.
+U0602,0.19,Low,Continue normal engagement and offer optional enrichment.
+U0603,0.128,Low,Continue normal engagement and offer optional enrichment.
+U0604,0.618,High,Offer a personal check-in and help identify barriers.
+U0605,0.58,Medium,Send a supportive reminder and monitor engagement.
+U0606,0.263,Low,Continue normal engagement and offer optional enrichment.
+U0607,0.504,Medium,Send a supportive reminder and monitor engagement.
+U0608,0.242,Low,Continue normal engagement and offer optional enrichment.
+U0609,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0610,0.401,Medium,Send a supportive reminder and monitor engagement.
+U0611,0.496,Medium,Send a supportive reminder and monitor engagement.
+U0612,0.627,High,Offer a personal check-in and help identify barriers.
+U0613,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0614,0.467,Medium,Send a supportive reminder and monitor engagement.
+U0615,0.239,Low,Continue normal engagement and offer optional enrichment.
+U0616,0.308,Medium,Send a supportive reminder and monitor engagement.
+U0617,0.825,High,Offer a personal check-in and help identify barriers.
+U0618,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0619,0.236,Low,Continue normal engagement and offer optional enrichment.
+U0620,0.702,High,Offer a personal check-in and help identify barriers.
+U0621,0.76,High,Offer a personal check-in and help identify barriers.
+U0622,0.503,Medium,Send a supportive reminder and monitor engagement.
+U0623,0.272,Low,Continue normal engagement and offer optional enrichment.
+U0624,0.509,Medium,Send a supportive reminder and monitor engagement.
+U0625,0.194,Low,Continue normal engagement and offer optional enrichment.
+U0626,0.461,Medium,Send a supportive reminder and monitor engagement.
+U0627,0.25,Low,Continue normal engagement and offer optional enrichment.
+U0628,0.101,Low,Continue normal engagement and offer optional enrichment.
+U0629,0.332,Medium,Send a supportive reminder and monitor engagement.
+U0630,0.339,Medium,Send a supportive reminder and monitor engagement.
+U0631,0.178,Low,Continue normal engagement and offer optional enrichment.
+U0632,0.262,Low,Continue normal engagement and offer optional enrichment.
+U0633,0.371,Medium,Send a supportive reminder and monitor engagement.
+U0634,0.222,Low,Continue normal engagement and offer optional enrichment.
+U0635,0.384,Medium,Send a supportive reminder and monitor engagement.
+U0636,0.366,Medium,Send a supportive reminder and monitor engagement.
+U0637,0.578,Medium,Send a supportive reminder and monitor engagement.
+U0638,0.686,High,Offer a personal check-in and help identify barriers.
+U0639,0.274,Low,Continue normal engagement and offer optional enrichment.
+U0640,0.676,High,Offer a personal check-in and help identify barriers.
+U0641,0.384,Medium,Send a supportive reminder and monitor engagement.
+U0642,0.511,Medium,Send a supportive reminder and monitor engagement.
+U0643,0.27,Low,Continue normal engagement and offer optional enrichment.
+U0644,0.81,High,Offer a personal check-in and help identify barriers.
+U0645,0.42,Medium,Send a supportive reminder and monitor engagement.
+U0646,0.119,Low,Continue normal engagement and offer optional enrichment.
+U0647,0.845,High,Offer a personal check-in and help identify barriers.
+U0648,0.439,Medium,Send a supportive reminder and monitor engagement.
+U0649,0.494,Medium,Send a supportive reminder and monitor engagement.
+U0650,0.188,Low,Continue normal engagement and offer optional enrichment.
+U0651,0.141,Low,Continue normal engagement and offer optional enrichment.
+U0652,0.409,Medium,Send a supportive reminder and monitor engagement.
+U0653,0.194,Low,Continue normal engagement and offer optional enrichment.
+U0654,0.24,Low,Continue normal engagement and offer optional enrichment.
+U0655,0.426,Medium,Send a supportive reminder and monitor engagement.
+U0656,0.621,High,Offer a personal check-in and help identify barriers.
+U0657,0.701,High,Offer a personal check-in and help identify barriers.
+U0658,0.802,High,Offer a personal check-in and help identify barriers.
+U0659,0.771,High,Offer a personal check-in and help identify barriers.
+U0660,0.581,Medium,Send a supportive reminder and monitor engagement.
+U0661,0.109,Low,Continue normal engagement and offer optional enrichment.
+U0662,0.315,Medium,Send a supportive reminder and monitor engagement.
+U0663,0.392,Medium,Send a supportive reminder and monitor engagement.
+U0664,0.55,Medium,Send a supportive reminder and monitor engagement.
+U0665,0.468,Medium,Send a supportive reminder and monitor engagement.
+U0666,0.296,Low,Continue normal engagement and offer optional enrichment.
+U0667,0.535,Medium,Send a supportive reminder and monitor engagement.
+U0668,0.258,Low,Continue normal engagement and offer optional enrichment.
+U0669,0.294,Low,Continue normal engagement and offer optional enrichment.
+U0670,0.263,Low,Continue normal engagement and offer optional enrichment.
+U0671,0.386,Medium,Send a supportive reminder and monitor engagement.
+U0672,0.218,Low,Continue normal engagement and offer optional enrichment.
+U0673,0.489,Medium,Send a supportive reminder and monitor engagement.
+U0674,0.342,Medium,Send a supportive reminder and monitor engagement.
+U0675,0.411,Medium,Send a supportive reminder and monitor engagement.
+U0676,0.13,Low,Continue normal engagement and offer optional enrichment.
+U0677,0.36,Medium,Send a supportive reminder and monitor engagement.
+U0678,0.585,Medium,Send a supportive reminder and monitor engagement.
+U0679,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0680,0.382,Medium,Send a supportive reminder and monitor engagement.
+U0681,0.294,Low,Continue normal engagement and offer optional enrichment.
+U0682,0.237,Low,Continue normal engagement and offer optional enrichment.
+U0683,0.567,Medium,Send a supportive reminder and monitor engagement.
+U0684,0.447,Medium,Send a supportive reminder and monitor engagement.
+U0685,0.178,Low,Continue normal engagement and offer optional enrichment.
+U0686,0.267,Low,Continue normal engagement and offer optional enrichment.
+U0687,0.635,High,Offer a personal check-in and help identify barriers.
+U0688,0.175,Low,Continue normal engagement and offer optional enrichment.
+U0689,0.603,High,Offer a personal check-in and help identify barriers.
+U0690,0.425,Medium,Send a supportive reminder and monitor engagement.
+U0691,0.182,Low,Continue normal engagement and offer optional enrichment.
+U0692,0.227,Low,Continue normal engagement and offer optional enrichment.
+U0693,0.342,Medium,Send a supportive reminder and monitor engagement.
+U0694,0.531,Medium,Send a supportive reminder and monitor engagement.
+U0695,0.879,High,Offer a personal check-in and help identify barriers.
+U0696,0.534,Medium,Send a supportive reminder and monitor engagement.
+U0697,0.319,Medium,Send a supportive reminder and monitor engagement.
+U0698,0.444,Medium,Send a supportive reminder and monitor engagement.
+U0699,0.367,Medium,Send a supportive reminder and monitor engagement.
+U0700,0.201,Low,Continue normal engagement and offer optional enrichment.
+U0701,0.378,Medium,Send a supportive reminder and monitor engagement.
+U0702,0.623,High,Offer a personal check-in and help identify barriers.
+U0703,0.531,Medium,Send a supportive reminder and monitor engagement.
+U0704,0.21,Low,Continue normal engagement and offer optional enrichment.
+U0705,0.251,Low,Continue normal engagement and offer optional enrichment.
+U0706,0.361,Medium,Send a supportive reminder and monitor engagement.
+U0707,0.613,High,Offer a personal check-in and help identify barriers.
+U0708,0.247,Low,Continue normal engagement and offer optional enrichment.
+U0709,0.248,Low,Continue normal engagement and offer optional enrichment.
+U0710,0.28,Low,Continue normal engagement and offer optional enrichment.
+U0711,0.308,Medium,Send a supportive reminder and monitor engagement.
+U0712,0.16,Low,Continue normal engagement and offer optional enrichment.
+U0713,0.827,High,Offer a personal check-in and help identify barriers.
+U0714,0.429,Medium,Send a supportive reminder and monitor engagement.
+U0715,0.806,High,Offer a personal check-in and help identify barriers.
+U0716,0.426,Medium,Send a supportive reminder and monitor engagement.
+U0717,0.108,Low,Continue normal engagement and offer optional enrichment.
+U0718,0.171,Low,Continue normal engagement and offer optional enrichment.
+U0719,0.369,Medium,Send a supportive reminder and monitor engagement.
+U0720,0.696,High,Offer a personal check-in and help identify barriers.
+U0721,0.774,High,Offer a personal check-in and help identify barriers.
+U0722,0.779,High,Offer a personal check-in and help identify barriers.
+U0723,0.267,Low,Continue normal engagement and offer optional enrichment.
+U0724,0.214,Low,Continue normal engagement and offer optional enrichment.
+U0725,0.393,Medium,Send a supportive reminder and monitor engagement.
+U0726,0.548,Medium,Send a supportive reminder and monitor engagement.
+U0727,0.454,Medium,Send a supportive reminder and monitor engagement.
+U0728,0.632,High,Offer a personal check-in and help identify barriers.
+U0729,0.519,Medium,Send a supportive reminder and monitor engagement.
+U0730,0.307,Medium,Send a supportive reminder and monitor engagement.
+U0731,0.307,Medium,Send a supportive reminder and monitor engagement.
+U0732,0.514,Medium,Send a supportive reminder and monitor engagement.
+U0733,0.415,Medium,Send a supportive reminder and monitor engagement.
+U0734,0.716,High,Offer a personal check-in and help identify barriers.
+U0735,0.29,Low,Continue normal engagement and offer optional enrichment.
+U0736,0.138,Low,Continue normal engagement and offer optional enrichment.
+U0737,0.656,High,Offer a personal check-in and help identify barriers.
+U0738,0.34,Medium,Send a supportive reminder and monitor engagement.
+U0739,0.408,Medium,Send a supportive reminder and monitor engagement.
+U0740,0.187,Low,Continue normal engagement and offer optional enrichment.
+U0741,0.233,Low,Continue normal engagement and offer optional enrichment.
+U0742,0.232,Low,Continue normal engagement and offer optional enrichment.
+U0743,0.433,Medium,Send a supportive reminder and monitor engagement.
+U0744,0.28,Low,Continue normal engagement and offer optional enrichment.
+U0745,0.448,Medium,Send a supportive reminder and monitor engagement.
+U0746,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0747,0.559,Medium,Send a supportive reminder and monitor engagement.
+U0748,0.266,Low,Continue normal engagement and offer optional enrichment.
+U0749,0.305,Medium,Send a supportive reminder and monitor engagement.
+U0750,0.389,Medium,Send a supportive reminder and monitor engagement.
+U0751,0.377,Medium,Send a supportive reminder and monitor engagement.
+U0752,0.275,Low,Continue normal engagement and offer optional enrichment.
+U0753,0.192,Low,Continue normal engagement and offer optional enrichment.
+U0754,0.48,Medium,Send a supportive reminder and monitor engagement.
+U0755,0.377,Medium,Send a supportive reminder and monitor engagement.
+U0756,0.132,Low,Continue normal engagement and offer optional enrichment.
+U0757,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0758,0.896,High,Offer a personal check-in and help identify barriers.
+U0759,0.067,Low,Continue normal engagement and offer optional enrichment.
+U0760,0.722,High,Offer a personal check-in and help identify barriers.
+U0761,0.561,Medium,Send a supportive reminder and monitor engagement.
+U0762,0.209,Low,Continue normal engagement and offer optional enrichment.
+U0763,0.275,Low,Continue normal engagement and offer optional enrichment.
+U0764,0.201,Low,Continue normal engagement and offer optional enrichment.
+U0765,0.279,Low,Continue normal engagement and offer optional enrichment.
+U0766,0.179,Low,Continue normal engagement and offer optional enrichment.
+U0767,0.521,Medium,Send a supportive reminder and monitor engagement.
+U0768,0.873,High,Offer a personal check-in and help identify barriers.
+U0769,0.214,Low,Continue normal engagement and offer optional enrichment.
+U0770,0.324,Medium,Send a supportive reminder and monitor engagement.
+U0771,0.477,Medium,Send a supportive reminder and monitor engagement.
+U0772,0.207,Low,Continue normal engagement and offer optional enrichment.
+U0773,0.335,Medium,Send a supportive reminder and monitor engagement.
+U0774,0.141,Low,Continue normal engagement and offer optional enrichment.
+U0775,0.362,Medium,Send a supportive reminder and monitor engagement.
+U0776,0.649,High,Offer a personal check-in and help identify barriers.
+U0777,0.386,Medium,Send a supportive reminder and monitor engagement.
+U0778,0.172,Low,Continue normal engagement and offer optional enrichment.
+U0779,0.54,Medium,Send a supportive reminder and monitor engagement.
+U0780,0.693,High,Offer a personal check-in and help identify barriers.
+U0781,0.436,Medium,Send a supportive reminder and monitor engagement.
+U0782,0.528,Medium,Send a supportive reminder and monitor engagement.
+U0783,0.68,High,Offer a personal check-in and help identify barriers.
+U0784,0.416,Medium,Send a supportive reminder and monitor engagement.
+U0785,0.714,High,Offer a personal check-in and help identify barriers.
+U0786,0.65,High,Offer a personal check-in and help identify barriers.
+U0787,0.338,Medium,Send a supportive reminder and monitor engagement.
+U0788,0.502,Medium,Send a supportive reminder and monitor engagement.
+U0789,0.675,High,Offer a personal check-in and help identify barriers.
+U0790,0.351,Medium,Send a supportive reminder and monitor engagement.
+U0791,0.598,Medium,Send a supportive reminder and monitor engagement.
+U0792,0.784,High,Offer a personal check-in and help identify barriers.
+U0793,0.456,Medium,Send a supportive reminder and monitor engagement.
+U0794,0.3,Medium,Send a supportive reminder and monitor engagement.
+U0795,0.173,Low,Continue normal engagement and offer optional enrichment.
+U0796,0.603,High,Offer a personal check-in and help identify barriers.
+U0797,0.486,Medium,Send a supportive reminder and monitor engagement.
+U0798,0.236,Low,Continue normal engagement and offer optional enrichment.
+U0799,0.272,Low,Continue normal engagement and offer optional enrichment.
+U0800,0.829,High,Offer a personal check-in and help identify barriers.
+U0801,0.324,Medium,Send a supportive reminder and monitor engagement.
+U0802,0.255,Low,Continue normal engagement and offer optional enrichment.
+U0803,0.371,Medium,Send a supportive reminder and monitor engagement.
+U0804,0.257,Low,Continue normal engagement and offer optional enrichment.
+U0805,0.458,Medium,Send a supportive reminder and monitor engagement.
+U0806,0.166,Low,Continue normal engagement and offer optional enrichment.
+U0807,0.223,Low,Continue normal engagement and offer optional enrichment.
+U0808,0.468,Medium,Send a supportive reminder and monitor engagement.
+U0809,0.557,Medium,Send a supportive reminder and monitor engagement.
+U0810,0.806,High,Offer a personal check-in and help identify barriers.
+U0811,0.183,Low,Continue normal engagement and offer optional enrichment.
+U0812,0.79,High,Offer a personal check-in and help identify barriers.
+U0813,0.161,Low,Continue normal engagement and offer optional enrichment.
+U0814,0.604,High,Offer a personal check-in and help identify barriers.
+U0815,0.39,Medium,Send a supportive reminder and monitor engagement.
+U0816,0.169,Low,Continue normal engagement and offer optional enrichment.
+U0817,0.747,High,Offer a personal check-in and help identify barriers.
+U0818,0.483,Medium,Send a supportive reminder and monitor engagement.
+U0819,0.756,High,Offer a personal check-in and help identify barriers.
+U0820,0.174,Low,Continue normal engagement and offer optional enrichment.
+U0821,0.315,Medium,Send a supportive reminder and monitor engagement.
+U0822,0.306,Medium,Send a supportive reminder and monitor engagement.
+U0823,0.289,Low,Continue normal engagement and offer optional enrichment.
+U0824,0.309,Medium,Send a supportive reminder and monitor engagement.
+U0825,0.763,High,Offer a personal check-in and help identify barriers.
+U0826,0.574,Medium,Send a supportive reminder and monitor engagement.
+U0827,0.26,Low,Continue normal engagement and offer optional enrichment.
+U0828,0.842,High,Offer a personal check-in and help identify barriers.
+U0829,0.184,Low,Continue normal engagement and offer optional enrichment.
+U0830,0.683,High,Offer a personal check-in and help identify barriers.
+U0831,0.432,Medium,Send a supportive reminder and monitor engagement.
+U0832,0.695,High,Offer a personal check-in and help identify barriers.
+U0833,0.129,Low,Continue normal engagement and offer optional enrichment.
+U0834,0.231,Low,Continue normal engagement and offer optional enrichment.
+U0835,0.224,Low,Continue normal engagement and offer optional enrichment.
+U0836,0.842,High,Offer a personal check-in and help identify barriers.
+U0837,0.215,Low,Continue normal engagement and offer optional enrichment.
+U0838,0.778,High,Offer a personal check-in and help identify barriers.
+U0839,0.48,Medium,Send a supportive reminder and monitor engagement.
+U0840,0.095,Low,Continue normal engagement and offer optional enrichment.
+U0841,0.169,Low,Continue normal engagement and offer optional enrichment.
+U0842,0.447,Medium,Send a supportive reminder and monitor engagement.
+U0843,0.216,Low,Continue normal engagement and offer optional enrichment.
+U0844,0.32,Medium,Send a supportive reminder and monitor engagement.
+U0845,0.229,Low,Continue normal engagement and offer optional enrichment.
+U0846,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0847,0.242,Low,Continue normal engagement and offer optional enrichment.
+U0848,0.359,Medium,Send a supportive reminder and monitor engagement.
+U0849,0.343,Medium,Send a supportive reminder and monitor engagement.
+U0850,0.707,High,Offer a personal check-in and help identify barriers.
+U0851,0.531,Medium,Send a supportive reminder and monitor engagement.
+U0852,0.129,Low,Continue normal engagement and offer optional enrichment.
+U0853,0.588,Medium,Send a supportive reminder and monitor engagement.
+U0854,0.207,Low,Continue normal engagement and offer optional enrichment.
+U0855,0.5,Medium,Send a supportive reminder and monitor engagement.
+U0856,0.316,Medium,Send a supportive reminder and monitor engagement.
+U0857,0.15,Low,Continue normal engagement and offer optional enrichment.
+U0858,0.67,High,Offer a personal check-in and help identify barriers.
+U0859,0.351,Medium,Send a supportive reminder and monitor engagement.
+U0860,0.783,High,Offer a personal check-in and help identify barriers.
+U0861,0.498,Medium,Send a supportive reminder and monitor engagement.
+U0862,0.183,Low,Continue normal engagement and offer optional enrichment.
+U0863,0.628,High,Offer a personal check-in and help identify barriers.
+U0864,0.338,Medium,Send a supportive reminder and monitor engagement.
+U0865,0.508,Medium,Send a supportive reminder and monitor engagement.
+U0866,0.378,Medium,Send a supportive reminder and monitor engagement.
+U0867,0.351,Medium,Send a supportive reminder and monitor engagement.
+U0868,0.106,Low,Continue normal engagement and offer optional enrichment.
+U0869,0.409,Medium,Send a supportive reminder and monitor engagement.
+U0870,0.822,High,Offer a personal check-in and help identify barriers.
+U0871,0.281,Low,Continue normal engagement and offer optional enrichment.
+U0872,0.503,Medium,Send a supportive reminder and monitor engagement.
+U0873,0.561,Medium,Send a supportive reminder and monitor engagement.
+U0874,0.525,Medium,Send a supportive reminder and monitor engagement.
+U0875,0.237,Low,Continue normal engagement and offer optional enrichment.
+U0876,0.226,Low,Continue normal engagement and offer optional enrichment.
+U0877,0.837,High,Offer a personal check-in and help identify barriers.
+U0878,0.222,Low,Continue normal engagement and offer optional enrichment.
+U0879,0.513,Medium,Send a supportive reminder and monitor engagement.
+U0880,0.287,Low,Continue normal engagement and offer optional enrichment.
+U0881,0.681,High,Offer a personal check-in and help identify barriers.
+U0882,0.491,Medium,Send a supportive reminder and monitor engagement.
+U0883,0.743,High,Offer a personal check-in and help identify barriers.
+U0884,0.255,Low,Continue normal engagement and offer optional enrichment.
+U0885,0.253,Low,Continue normal engagement and offer optional enrichment.
+U0886,0.241,Low,Continue normal engagement and offer optional enrichment.
+U0887,0.236,Low,Continue normal engagement and offer optional enrichment.
+U0888,0.16,Low,Continue normal engagement and offer optional enrichment.
+U0889,0.252,Low,Continue normal engagement and offer optional enrichment.
+U0890,0.484,Medium,Send a supportive reminder and monitor engagement.
+U0891,0.652,High,Offer a personal check-in and help identify barriers.
+U0892,0.671,High,Offer a personal check-in and help identify barriers.
+U0893,0.521,Medium,Send a supportive reminder and monitor engagement.
+U0894,0.219,Low,Continue normal engagement and offer optional enrichment.
+U0895,0.314,Medium,Send a supportive reminder and monitor engagement.
+U0896,0.542,Medium,Send a supportive reminder and monitor engagement.
+U0897,0.242,Low,Continue normal engagement and offer optional enrichment.
+U0898,0.277,Low,Continue normal engagement and offer optional enrichment.
+U0899,0.252,Low,Continue normal engagement and offer optional enrichment.
+U0900,0.255,Low,Continue normal engagement and offer optional enrichment.
+U0901,0.45,Medium,Send a supportive reminder and monitor engagement.
+U0902,0.896,High,Offer a personal check-in and help identify barriers.
+U0903,0.208,Low,Continue normal engagement and offer optional enrichment.
+U0904,0.168,Low,Continue normal engagement and offer optional enrichment.
+U0905,0.257,Low,Continue normal engagement and offer optional enrichment.
+U0906,0.624,High,Offer a personal check-in and help identify barriers.
+U0907,0.226,Low,Continue normal engagement and offer optional enrichment.
+U0908,0.177,Low,Continue normal engagement and offer optional enrichment.
+U0909,0.254,Low,Continue normal engagement and offer optional enrichment.
+U0910,0.23,Low,Continue normal engagement and offer optional enrichment.
+U0911,0.248,Low,Continue normal engagement and offer optional enrichment.
+U0912,0.235,Low,Continue normal engagement and offer optional enrichment.
+U0913,0.355,Medium,Send a supportive reminder and monitor engagement.
+U0914,0.218,Low,Continue normal engagement and offer optional enrichment.
+U0915,0.248,Low,Continue normal engagement and offer optional enrichment.
+U0916,0.321,Medium,Send a supportive reminder and monitor engagement.
+U0917,0.19,Low,Continue normal engagement and offer optional enrichment.
+U0918,0.374,Medium,Send a supportive reminder and monitor engagement.
+U0919,0.724,High,Offer a personal check-in and help identify barriers.
+U0920,0.817,High,Offer a personal check-in and help identify barriers.
+U0921,0.48,Medium,Send a supportive reminder and monitor engagement.
+U0922,0.234,Low,Continue normal engagement and offer optional enrichment.
+U0923,0.629,High,Offer a personal check-in and help identify barriers.
+U0924,0.695,High,Offer a personal check-in and help identify barriers.
+U0925,0.683,High,Offer a personal check-in and help identify barriers.
+U0926,0.557,Medium,Send a supportive reminder and monitor engagement.
+U0927,0.218,Low,Continue normal engagement and offer optional enrichment.
+U0928,0.729,High,Offer a personal check-in and help identify barriers.
+U0929,0.513,Medium,Send a supportive reminder and monitor engagement.
+U0930,0.316,Medium,Send a supportive reminder and monitor engagement.
+U0931,0.579,Medium,Send a supportive reminder and monitor engagement.
+U0932,0.531,Medium,Send a supportive reminder and monitor engagement.
+U0933,0.151,Low,Continue normal engagement and offer optional enrichment.
+U0934,0.404,Medium,Send a supportive reminder and monitor engagement.
+U0935,0.221,Low,Continue normal engagement and offer optional enrichment.
+U0936,0.215,Low,Continue normal engagement and offer optional enrichment.
+U0937,0.602,High,Offer a personal check-in and help identify barriers.
+U0938,0.741,High,Offer a personal check-in and help identify barriers.
+U0939,0.511,Medium,Send a supportive reminder and monitor engagement.
+U0940,0.205,Low,Continue normal engagement and offer optional enrichment.
+U0941,0.267,Low,Continue normal engagement and offer optional enrichment.
+U0942,0.176,Low,Continue normal engagement and offer optional enrichment.
+U0943,0.63,High,Offer a personal check-in and help identify barriers.
+U0944,0.745,High,Offer a personal check-in and help identify barriers.
+U0945,0.306,Medium,Send a supportive reminder and monitor engagement.
+U0946,0.303,Medium,Send a supportive reminder and monitor engagement.
+U0947,0.368,Medium,Send a supportive reminder and monitor engagement.
+U0948,0.623,High,Offer a personal check-in and help identify barriers.
+U0949,0.39,Medium,Send a supportive reminder and monitor engagement.
+U0950,0.324,Medium,Send a supportive reminder and monitor engagement.
+U0951,0.91,High,Offer a personal check-in and help identify barriers.
+U0952,0.137,Low,Continue normal engagement and offer optional enrichment.
+U0953,0.359,Medium,Send a supportive reminder and monitor engagement.
+U0954,0.504,Medium,Send a supportive reminder and monitor engagement.
+U0955,0.295,Low,Continue normal engagement and offer optional enrichment.
+U0956,0.1,Low,Continue normal engagement and offer optional enrichment.
+U0957,0.867,High,Offer a personal check-in and help identify barriers.
+U0958,0.346,Medium,Send a supportive reminder and monitor engagement.
+U0959,0.642,High,Offer a personal check-in and help identify barriers.
+U0960,0.321,Medium,Send a supportive reminder and monitor engagement.
+U0961,0.47,Medium,Send a supportive reminder and monitor engagement.
+U0962,0.201,Low,Continue normal engagement and offer optional enrichment.
+U0963,0.331,Medium,Send a supportive reminder and monitor engagement.
+U0964,0.623,High,Offer a personal check-in and help identify barriers.
+U0965,0.458,Medium,Send a supportive reminder and monitor engagement.
+U0966,0.169,Low,Continue normal engagement and offer optional enrichment.
+U0967,0.323,Medium,Send a supportive reminder and monitor engagement.
+U0968,0.571,Medium,Send a supportive reminder and monitor engagement.
+U0969,0.258,Low,Continue normal engagement and offer optional enrichment.
+U0970,0.47,Medium,Send a supportive reminder and monitor engagement.
+U0971,0.322,Medium,Send a supportive reminder and monitor engagement.
+U0972,0.56,Medium,Send a supportive reminder and monitor engagement.
+U0973,0.251,Low,Continue normal engagement and offer optional enrichment.
+U0974,0.269,Low,Continue normal engagement and offer optional enrichment.
+U0975,0.329,Medium,Send a supportive reminder and monitor engagement.
+U0976,0.868,High,Offer a personal check-in and help identify barriers.
+U0977,0.49,Medium,Send a supportive reminder and monitor engagement.
+U0978,0.223,Low,Continue normal engagement and offer optional enrichment.
+U0979,0.155,Low,Continue normal engagement and offer optional enrichment.
+U0980,0.46,Medium,Send a supportive reminder and monitor engagement.
+U0981,0.383,Medium,Send a supportive reminder and monitor engagement.
+U0982,0.267,Low,Continue normal engagement and offer optional enrichment.
+U0983,0.585,Medium,Send a supportive reminder and monitor engagement.
+U0984,0.214,Low,Continue normal engagement and offer optional enrichment.
+U0985,0.748,High,Offer a personal check-in and help identify barriers.
+U0986,0.681,High,Offer a personal check-in and help identify barriers.
+U0987,0.2,Low,Continue normal engagement and offer optional enrichment.
+U0988,0.163,Low,Continue normal engagement and offer optional enrichment.
+U0989,0.363,Medium,Send a supportive reminder and monitor engagement.
+U0990,0.536,Medium,Send a supportive reminder and monitor engagement.
+U0991,0.367,Medium,Send a supportive reminder and monitor engagement.
+U0992,0.28,Low,Continue normal engagement and offer optional enrichment.
+U0993,0.401,Medium,Send a supportive reminder and monitor engagement.
+U0994,0.237,Low,Continue normal engagement and offer optional enrichment.
+U0995,0.209,Low,Continue normal engagement and offer optional enrichment.
+U0996,0.86,High,Offer a personal check-in and help identify barriers.
+U0997,0.106,Low,Continue normal engagement and offer optional enrichment.
+U0998,0.581,Medium,Send a supportive reminder and monitor engagement.
+U0999,0.234,Low,Continue normal engagement and offer optional enrichment.
+U1000,0.151,Low,Continue normal engagement and offer optional enrichment.
+U1001,0.499,Medium,Send a supportive reminder and monitor engagement.
+U1002,0.198,Low,Continue normal engagement and offer optional enrichment.
+U1003,0.491,Medium,Send a supportive reminder and monitor engagement.
+U1004,0.71,High,Offer a personal check-in and help identify barriers.
+U1005,0.144,Low,Continue normal engagement and offer optional enrichment.
+U1006,0.74,High,Offer a personal check-in and help identify barriers.
+U1007,0.212,Low,Continue normal engagement and offer optional enrichment.
+U1008,0.655,High,Offer a personal check-in and help identify barriers.
+U1009,0.609,High,Offer a personal check-in and help identify barriers.
+U1010,0.76,High,Offer a personal check-in and help identify barriers.
+U1011,0.185,Low,Continue normal engagement and offer optional enrichment.
+U1012,0.586,Medium,Send a supportive reminder and monitor engagement.
+U1013,0.633,High,Offer a personal check-in and help identify barriers.
+U1014,0.701,High,Offer a personal check-in and help identify barriers.
+U1015,0.279,Low,Continue normal engagement and offer optional enrichment.
+U1016,0.374,Medium,Send a supportive reminder and monitor engagement.
+U1017,0.497,Medium,Send a supportive reminder and monitor engagement.
+U1018,0.277,Low,Continue normal engagement and offer optional enrichment.
+U1019,0.433,Medium,Send a supportive reminder and monitor engagement.
+U1020,0.359,Medium,Send a supportive reminder and monitor engagement.
+U1021,0.166,Low,Continue normal engagement and offer optional enrichment.
+U1022,0.213,Low,Continue normal engagement and offer optional enrichment.
+U1023,0.625,High,Offer a personal check-in and help identify barriers.
+U1024,0.43,Medium,Send a supportive reminder and monitor engagement.
+U1025,0.743,High,Offer a personal check-in and help identify barriers.
+U1026,0.337,Medium,Send a supportive reminder and monitor engagement.
+U1027,0.458,Medium,Send a supportive reminder and monitor engagement.
+U1028,0.301,Medium,Send a supportive reminder and monitor engagement.
+U1029,0.112,Low,Continue normal engagement and offer optional enrichment.
+U1030,0.595,Medium,Send a supportive reminder and monitor engagement.
+U1031,0.853,High,Offer a personal check-in and help identify barriers.
+U1032,0.388,Medium,Send a supportive reminder and monitor engagement.
+U1033,0.443,Medium,Send a supportive reminder and monitor engagement.
+U1034,0.781,High,Offer a personal check-in and help identify barriers.
+U1035,0.645,High,Offer a personal check-in and help identify barriers.
+U1036,0.636,High,Offer a personal check-in and help identify barriers.
+U1037,0.248,Low,Continue normal engagement and offer optional enrichment.
+U1038,0.293,Low,Continue normal engagement and offer optional enrichment.
+U1039,0.177,Low,Continue normal engagement and offer optional enrichment.
+U1040,0.802,High,Offer a personal check-in and help identify barriers.
+U1041,0.234,Low,Continue normal engagement and offer optional enrichment.
+U1042,0.39,Medium,Send a supportive reminder and monitor engagement.
+U1043,0.39,Medium,Send a supportive reminder and monitor engagement.
+U1044,0.184,Low,Continue normal engagement and offer optional enrichment.
+U1045,0.794,High,Offer a personal check-in and help identify barriers.
+U1046,0.3,Medium,Send a supportive reminder and monitor engagement.
+U1047,0.708,High,Offer a personal check-in and help identify barriers.
+U1048,0.098,Low,Continue normal engagement and offer optional enrichment.
+U1049,0.767,High,Offer a personal check-in and help identify barriers.
+U1050,0.514,Medium,Send a supportive reminder and monitor engagement.
+U1051,0.48,Medium,Send a supportive reminder and monitor engagement.
+U1052,0.792,High,Offer a personal check-in and help identify barriers.
+U1053,0.517,Medium,Send a supportive reminder and monitor engagement.
+U1054,0.248,Low,Continue normal engagement and offer optional enrichment.
+U1055,0.365,Medium,Send a supportive reminder and monitor engagement.
+U1056,0.61,High,Offer a personal check-in and help identify barriers.
+U1057,0.285,Low,Continue normal engagement and offer optional enrichment.
+U1058,0.2,Low,Continue normal engagement and offer optional enrichment.
+U1059,0.446,Medium,Send a supportive reminder and monitor engagement.
+U1060,0.666,High,Offer a personal check-in and help identify barriers.
+U1061,0.066,Low,Continue normal engagement and offer optional enrichment.
+U1062,0.455,Medium,Send a supportive reminder and monitor engagement.
+U1063,0.207,Low,Continue normal engagement and offer optional enrichment.
+U1064,0.281,Low,Continue normal engagement and offer optional enrichment.
+U1065,0.787,High,Offer a personal check-in and help identify barriers.
+U1066,0.67,High,Offer a personal check-in and help identify barriers.
+U1067,0.527,Medium,Send a supportive reminder and monitor engagement.
+U1068,0.163,Low,Continue normal engagement and offer optional enrichment.
+U1069,0.103,Low,Continue normal engagement and offer optional enrichment.
+U1070,0.391,Medium,Send a supportive reminder and monitor engagement.
+U1071,0.266,Low,Continue normal engagement and offer optional enrichment.
+U1072,0.821,High,Offer a personal check-in and help identify barriers.
+U1073,0.571,Medium,Send a supportive reminder and monitor engagement.
+U1074,0.205,Low,Continue normal engagement and offer optional enrichment.
+U1075,0.279,Low,Continue normal engagement and offer optional enrichment.
+U1076,0.464,Medium,Send a supportive reminder and monitor engagement.
+U1077,0.379,Medium,Send a supportive reminder and monitor engagement.
+U1078,0.257,Low,Continue normal engagement and offer optional enrichment.
+U1079,0.796,High,Offer a personal check-in and help identify barriers.
+U1080,0.195,Low,Continue normal engagement and offer optional enrichment.
+U1081,0.456,Medium,Send a supportive reminder and monitor engagement.
+U1082,0.168,Low,Continue normal engagement and offer optional enrichment.
+U1083,0.763,High,Offer a personal check-in and help identify barriers.
+U1084,0.211,Low,Continue normal engagement and offer optional enrichment.
+U1085,0.166,Low,Continue normal engagement and offer optional enrichment.
+U1086,0.492,Medium,Send a supportive reminder and monitor engagement.
+U1087,0.277,Low,Continue normal engagement and offer optional enrichment.
+U1088,0.28,Low,Continue normal engagement and offer optional enrichment.
+U1089,0.426,Medium,Send a supportive reminder and monitor engagement.
+U1090,0.658,High,Offer a personal check-in and help identify barriers.
+U1091,0.659,High,Offer a personal check-in and help identify barriers.
+U1092,0.301,Medium,Send a supportive reminder and monitor engagement.
+U1093,0.372,Medium,Send a supportive reminder and monitor engagement.
+U1094,0.135,Low,Continue normal engagement and offer optional enrichment.
+U1095,0.109,Low,Continue normal engagement and offer optional enrichment.
+U1096,0.443,Medium,Send a supportive reminder and monitor engagement.
+U1097,0.757,High,Offer a personal check-in and help identify barriers.
+U1098,0.587,Medium,Send a supportive reminder and monitor engagement.
+U1099,0.848,High,Offer a personal check-in and help identify barriers.
+U1100,0.415,Medium,Send a supportive reminder and monitor engagement.
+U1101,0.345,Medium,Send a supportive reminder and monitor engagement.
+U1102,0.189,Low,Continue normal engagement and offer optional enrichment.
+U1103,0.701,High,Offer a personal check-in and help identify barriers.
+U1104,0.89,High,Offer a personal check-in and help identify barriers.
+U1105,0.356,Medium,Send a supportive reminder and monitor engagement.
+U1106,0.616,High,Offer a personal check-in and help identify barriers.
+U1107,0.123,Low,Continue normal engagement and offer optional enrichment.
+U1108,0.302,Medium,Send a supportive reminder and monitor engagement.
+U1109,0.28,Low,Continue normal engagement and offer optional enrichment.
+U1110,0.269,Low,Continue normal engagement and offer optional enrichment.
+U1111,0.261,Low,Continue normal engagement and offer optional enrichment.
+U1112,0.28,Low,Continue normal engagement and offer optional enrichment.
+U1113,0.784,High,Offer a personal check-in and help identify barriers.
+U1114,0.515,Medium,Send a supportive reminder and monitor engagement.
+U1115,0.696,High,Offer a personal check-in and help identify barriers.
+U1116,0.565,Medium,Send a supportive reminder and monitor engagement.
+U1117,0.134,Low,Continue normal engagement and offer optional enrichment.
+U1118,0.25,Low,Continue normal engagement and offer optional enrichment.
+U1119,0.407,Medium,Send a supportive reminder and monitor engagement.
+U1120,0.16,Low,Continue normal engagement and offer optional enrichment.
+U1121,0.846,High,Offer a personal check-in and help identify barriers.
+U1122,0.808,High,Offer a personal check-in and help identify barriers.
+U1123,0.331,Medium,Send a supportive reminder and monitor engagement.
+U1124,0.376,Medium,Send a supportive reminder and monitor engagement.
+U1125,0.23,Low,Continue normal engagement and offer optional enrichment.
+U1126,0.272,Low,Continue normal engagement and offer optional enrichment.
+U1127,0.14,Low,Continue normal engagement and offer optional enrichment.
+U1128,0.356,Medium,Send a supportive reminder and monitor engagement.
+U1129,0.888,High,Offer a personal check-in and help identify barriers.
+U1130,0.562,Medium,Send a supportive reminder and monitor engagement.
+U1131,0.233,Low,Continue normal engagement and offer optional enrichment.
+U1132,0.352,Medium,Send a supportive reminder and monitor engagement.
+U1133,0.235,Low,Continue normal engagement and offer optional enrichment.
+U1134,0.476,Medium,Send a supportive reminder and monitor engagement.
+U1135,0.361,Medium,Send a supportive reminder and monitor engagement.
+U1136,0.256,Low,Continue normal engagement and offer optional enrichment.
+U1137,0.618,High,Offer a personal check-in and help identify barriers.
+U1138,0.142,Low,Continue normal engagement and offer optional enrichment.
+U1139,0.403,Medium,Send a supportive reminder and monitor engagement.
+U1140,0.29,Low,Continue normal engagement and offer optional enrichment.
+U1141,0.398,Medium,Send a supportive reminder and monitor engagement.
+U1142,0.455,Medium,Send a supportive reminder and monitor engagement.
+U1143,0.452,Medium,Send a supportive reminder and monitor engagement.
+U1144,0.171,Low,Continue normal engagement and offer optional enrichment.
+U1145,0.063,Low,Continue normal engagement and offer optional enrichment.
+U1146,0.851,High,Offer a personal check-in and help identify barriers.
+U1147,0.857,High,Offer a personal check-in and help identify barriers.
+U1148,0.218,Low,Continue normal engagement and offer optional enrichment.
+U1149,0.138,Low,Continue normal engagement and offer optional enrichment.
+U1150,0.295,Low,Continue normal engagement and offer optional enrichment.
+U1151,0.67,High,Offer a personal check-in and help identify barriers.
+U1152,0.586,Medium,Send a supportive reminder and monitor engagement.
+U1153,0.23,Low,Continue normal engagement and offer optional enrichment.
+U1154,0.359,Medium,Send a supportive reminder and monitor engagement.
+U1155,0.471,Medium,Send a supportive reminder and monitor engagement.
+U1156,0.425,Medium,Send a supportive reminder and monitor engagement.
+U1157,0.589,Medium,Send a supportive reminder and monitor engagement.
+U1158,0.248,Low,Continue normal engagement and offer optional enrichment.
+U1159,0.368,Medium,Send a supportive reminder and monitor engagement.
+U1160,0.499,Medium,Send a supportive reminder and monitor engagement.
+U1161,0.42,Medium,Send a supportive reminder and monitor engagement.
+U1162,0.324,Medium,Send a supportive reminder and monitor engagement.
+U1163,0.17,Low,Continue normal engagement and offer optional enrichment.
+U1164,0.293,Low,Continue normal engagement and offer optional enrichment.
+U1165,0.503,Medium,Send a supportive reminder and monitor engagement.
+U1166,0.377,Medium,Send a supportive reminder and monitor engagement.
+U1167,0.293,Low,Continue normal engagement and offer optional enrichment.
+U1168,0.952,High,Offer a personal check-in and help identify barriers.
+U1169,0.386,Medium,Send a supportive reminder and monitor engagement.
+U1170,0.386,Medium,Send a supportive reminder and monitor engagement.
+U1171,0.216,Low,Continue normal engagement and offer optional enrichment.
+U1172,0.352,Medium,Send a supportive reminder and monitor engagement.
+U1173,0.503,Medium,Send a supportive reminder and monitor engagement.
+U1174,0.15,Low,Continue normal engagement and offer optional enrichment.
+U1175,0.457,Medium,Send a supportive reminder and monitor engagement.
+U1176,0.317,Medium,Send a supportive reminder and monitor engagement.
+U1177,0.137,Low,Continue normal engagement and offer optional enrichment.
+U1178,0.186,Low,Continue normal engagement and offer optional enrichment.
+U1179,0.857,High,Offer a personal check-in and help identify barriers.
+U1180,0.445,Medium,Send a supportive reminder and monitor engagement.
+U1181,0.785,High,Offer a personal check-in and help identify barriers.
+U1182,0.754,High,Offer a personal check-in and help identify barriers.
+U1183,0.267,Low,Continue normal engagement and offer optional enrichment.
+U1184,0.209,Low,Continue normal engagement and offer optional enrichment.
+U1185,0.232,Low,Continue normal engagement and offer optional enrichment.
+U1186,0.344,Medium,Send a supportive reminder and monitor engagement.
+U1187,0.217,Low,Continue normal engagement and offer optional enrichment.
+U1188,0.516,Medium,Send a supportive reminder and monitor engagement.
+U1189,0.921,High,Offer a personal check-in and help identify barriers.
+U1190,0.366,Medium,Send a supportive reminder and monitor engagement.
+U1191,0.155,Low,Continue normal engagement and offer optional enrichment.
+U1192,0.746,High,Offer a personal check-in and help identify barriers.
+U1193,0.149,Low,Continue normal engagement and offer optional enrichment.
+U1194,0.447,Medium,Send a supportive reminder and monitor engagement.
+U1195,0.341,Medium,Send a supportive reminder and monitor engagement.
+U1196,0.265,Low,Continue normal engagement and offer optional enrichment.
+U1197,0.216,Low,Continue normal engagement and offer optional enrichment.
+U1198,0.286,Low,Continue normal engagement and offer optional enrichment.
+U1199,0.561,Medium,Send a supportive reminder and monitor engagement.
+U1200,0.589,Medium,Send a supportive reminder and monitor engagement.
+U1201,0.388,Medium,Send a supportive reminder and monitor engagement.
+U1202,0.231,Low,Continue normal engagement and offer optional enrichment.
+U1203,0.892,High,Offer a personal check-in and help identify barriers.
+U1204,0.465,Medium,Send a supportive reminder and monitor engagement.
+U1205,0.512,Medium,Send a supportive reminder and monitor engagement.
+U1206,0.418,Medium,Send a supportive reminder and monitor engagement.
+U1207,0.546,Medium,Send a supportive reminder and monitor engagement.
+U1208,0.265,Low,Continue normal engagement and offer optional enrichment.
+U1209,0.421,Medium,Send a supportive reminder and monitor engagement.
+U1210,0.347,Medium,Send a supportive reminder and monitor engagement.
+U1211,0.385,Medium,Send a supportive reminder and monitor engagement.
+U1212,0.226,Low,Continue normal engagement and offer optional enrichment.
+U1213,0.222,Low,Continue normal engagement and offer optional enrichment.
+U1214,0.195,Low,Continue normal engagement and offer optional enrichment.
+U1215,0.664,High,Offer a personal check-in and help identify barriers.
+U1216,0.601,High,Offer a personal check-in and help identify barriers.
+U1217,0.381,Medium,Send a supportive reminder and monitor engagement.
+U1218,0.23,Low,Continue normal engagement and offer optional enrichment.
+U1219,0.473,Medium,Send a supportive reminder and monitor engagement.
+U1220,0.571,Medium,Send a supportive reminder and monitor engagement.
+U1221,0.911,High,Offer a personal check-in and help identify barriers.
+U1222,0.553,Medium,Send a supportive reminder and monitor engagement.
+U1223,0.766,High,Offer a personal check-in and help identify barriers.
+U1224,0.441,Medium,Send a supportive reminder and monitor engagement.
+U1225,0.431,Medium,Send a supportive reminder and monitor engagement.
+U1226,0.232,Low,Continue normal engagement and offer optional enrichment.
+U1227,0.356,Medium,Send a supportive reminder and monitor engagement.
+U1228,0.5,Medium,Send a supportive reminder and monitor engagement.
+U1229,0.332,Medium,Send a supportive reminder and monitor engagement.
+U1230,0.232,Low,Continue normal engagement and offer optional enrichment.
+U1231,0.794,High,Offer a personal check-in and help identify barriers.
+U1232,0.209,Low,Continue normal engagement and offer optional enrichment.
+U1233,0.257,Low,Continue normal engagement and offer optional enrichment.
+U1234,0.614,High,Offer a personal check-in and help identify barriers.
+U1235,0.56,Medium,Send a supportive reminder and monitor engagement.
+U1236,0.734,High,Offer a personal check-in and help identify barriers.
+U1237,0.379,Medium,Send a supportive reminder and monitor engagement.
+U1238,0.223,Low,Continue normal engagement and offer optional enrichment.
+U1239,0.224,Low,Continue normal engagement and offer optional enrichment.
+U1240,0.094,Low,Continue normal engagement and offer optional enrichment.
+U1241,0.225,Low,Continue normal engagement and offer optional enrichment.
+U1242,0.472,Medium,Send a supportive reminder and monitor engagement.
+U1243,0.165,Low,Continue normal engagement and offer optional enrichment.
+U1244,0.264,Low,Continue normal engagement and offer optional enrichment.
+U1245,0.26,Low,Continue normal engagement and offer optional enrichment.
+U1246,0.147,Low,Continue normal engagement and offer optional enrichment.
+U1247,0.278,Low,Continue normal engagement and offer optional enrichment.
+U1248,0.265,Low,Continue normal engagement and offer optional enrichment.
+U1249,0.145,Low,Continue normal engagement and offer optional enrichment.
+U1250,0.351,Medium,Send a supportive reminder and monitor engagement.
+U1251,0.322,Medium,Send a supportive reminder and monitor engagement.
+U1252,0.721,High,Offer a personal check-in and help identify barriers.
+U1253,0.257,Low,Continue normal engagement and offer optional enrichment.
+U1254,0.309,Medium,Send a supportive reminder and monitor engagement.
+U1255,0.465,Medium,Send a supportive reminder and monitor engagement.
+U1256,0.405,Medium,Send a supportive reminder and monitor engagement.
+U1257,0.382,Medium,Send a supportive reminder and monitor engagement.
+U1258,0.353,Medium,Send a supportive reminder and monitor engagement.
+U1259,0.272,Low,Continue normal engagement and offer optional enrichment.
+U1260,0.519,Medium,Send a supportive reminder and monitor engagement.
+U1261,0.289,Low,Continue normal engagement and offer optional enrichment.
+U1262,0.465,Medium,Send a supportive reminder and monitor engagement.
+U1263,0.259,Low,Continue normal engagement and offer optional enrichment.
+U1264,0.186,Low,Continue normal engagement and offer optional enrichment.
+U1265,0.684,High,Offer a personal check-in and help identify barriers.
+U1266,0.331,Medium,Send a supportive reminder and monitor engagement.
+U1267,0.21,Low,Continue normal engagement and offer optional enrichment.
+U1268,0.245,Low,Continue normal engagement and offer optional enrichment.
+U1269,0.319,Medium,Send a supportive reminder and monitor engagement.
+U1270,0.181,Low,Continue normal engagement and offer optional enrichment.
+U1271,0.89,High,Offer a personal check-in and help identify barriers.
+U1272,0.392,Medium,Send a supportive reminder and monitor engagement.
+U1273,0.486,Medium,Send a supportive reminder and monitor engagement.
+U1274,0.21,Low,Continue normal engagement and offer optional enrichment.
+U1275,0.448,Medium,Send a supportive reminder and monitor engagement.
+U1276,0.657,High,Offer a personal check-in and help identify barriers.
+U1277,0.482,Medium,Send a supportive reminder and monitor engagement.
+U1278,0.317,Medium,Send a supportive reminder and monitor engagement.
+U1279,0.483,Medium,Send a supportive reminder and monitor engagement.
+U1280,0.265,Low,Continue normal engagement and offer optional enrichment.
+U1281,0.273,Low,Continue normal engagement and offer optional enrichment.
+U1282,0.39,Medium,Send a supportive reminder and monitor engagement.
+U1283,0.842,High,Offer a personal check-in and help identify barriers.
+U1284,0.27,Low,Continue normal engagement and offer optional enrichment.
+U1285,0.748,High,Offer a personal check-in and help identify barriers.
+U1286,0.209,Low,Continue normal engagement and offer optional enrichment.
+U1287,0.812,High,Offer a personal check-in and help identify barriers.
+U1288,0.099,Low,Continue normal engagement and offer optional enrichment.
+U1289,0.75,High,Offer a personal check-in and help identify barriers.
+U1290,0.109,Low,Continue normal engagement and offer optional enrichment.
+U1291,0.533,Medium,Send a supportive reminder and monitor engagement.
+U1292,0.164,Low,Continue normal engagement and offer optional enrichment.
+U1293,0.648,High,Offer a personal check-in and help identify barriers.
+U1294,0.419,Medium,Send a supportive reminder and monitor engagement.
+U1295,0.247,Low,Continue normal engagement and offer optional enrichment.
+U1296,0.488,Medium,Send a supportive reminder and monitor engagement.
+U1297,0.574,Medium,Send a supportive reminder and monitor engagement.
+U1298,0.402,Medium,Send a supportive reminder and monitor engagement.
+U1299,0.246,Low,Continue normal engagement and offer optional enrichment.
+U1300,0.197,Low,Continue normal engagement and offer optional enrichment.
+U1301,0.292,Low,Continue normal engagement and offer optional enrichment.
+U1302,0.357,Medium,Send a supportive reminder and monitor engagement.
+U1303,0.397,Medium,Send a supportive reminder and monitor engagement.
+U1304,0.465,Medium,Send a supportive reminder and monitor engagement.
+U1305,0.349,Medium,Send a supportive reminder and monitor engagement.
+U1306,0.158,Low,Continue normal engagement and offer optional enrichment.
+U1307,0.366,Medium,Send a supportive reminder and monitor engagement.
+U1308,0.551,Medium,Send a supportive reminder and monitor engagement.
+U1309,0.227,Low,Continue normal engagement and offer optional enrichment.
+U1310,0.61,High,Offer a personal check-in and help identify barriers.
+U1311,0.275,Low,Continue normal engagement and offer optional enrichment.
+U1312,0.237,Low,Continue normal engagement and offer optional enrichment.
+U1313,0.172,Low,Continue normal engagement and offer optional enrichment.
+U1314,0.755,High,Offer a personal check-in and help identify barriers.
+U1315,0.303,Medium,Send a supportive reminder and monitor engagement.
+U1316,0.824,High,Offer a personal check-in and help identify barriers.
+U1317,0.263,Low,Continue normal engagement and offer optional enrichment.
+U1318,0.502,Medium,Send a supportive reminder and monitor engagement.
+U1319,0.274,Low,Continue normal engagement and offer optional enrichment.
+U1320,0.9,High,Offer a personal check-in and help identify barriers.
+U1321,0.431,Medium,Send a supportive reminder and monitor engagement.
+U1322,0.261,Low,Continue normal engagement and offer optional enrichment.
+U1323,0.336,Medium,Send a supportive reminder and monitor engagement.
+U1324,0.229,Low,Continue normal engagement and offer optional enrichment.
+U1325,0.72,High,Offer a personal check-in and help identify barriers.
+U1326,0.217,Low,Continue normal engagement and offer optional enrichment.
+U1327,0.7,High,Offer a personal check-in and help identify barriers.
+U1328,0.344,Medium,Send a supportive reminder and monitor engagement.
+U1329,0.213,Low,Continue normal engagement and offer optional enrichment.
+U1330,0.155,Low,Continue normal engagement and offer optional enrichment.
+U1331,0.473,Medium,Send a supportive reminder and monitor engagement.
+U1332,0.322,Medium,Send a supportive reminder and monitor engagement.
+U1333,0.464,Medium,Send a supportive reminder and monitor engagement.
+U1334,0.51,Medium,Send a supportive reminder and monitor engagement.
+U1335,0.357,Medium,Send a supportive reminder and monitor engagement.
+U1336,0.35,Medium,Send a supportive reminder and monitor engagement.
+U1337,0.34,Medium,Send a supportive reminder and monitor engagement.
+U1338,0.568,Medium,Send a supportive reminder and monitor engagement.
+U1339,0.132,Low,Continue normal engagement and offer optional enrichment.
+U1340,0.298,Low,Continue normal engagement and offer optional enrichment.
+U1341,0.705,High,Offer a personal check-in and help identify barriers.
+U1342,0.859,High,Offer a personal check-in and help identify barriers.
+U1343,0.15,Low,Continue normal engagement and offer optional enrichment.
+U1344,0.642,High,Offer a personal check-in and help identify barriers.
+U1345,0.234,Low,Continue normal engagement and offer optional enrichment.
+U1346,0.214,Low,Continue normal engagement and offer optional enrichment.
+U1347,0.24,Low,Continue normal engagement and offer optional enrichment.
+U1348,0.302,Medium,Send a supportive reminder and monitor engagement.
+U1349,0.434,Medium,Send a supportive reminder and monitor engagement.
+U1350,0.131,Low,Continue normal engagement and offer optional enrichment.
+U1351,0.497,Medium,Send a supportive reminder and monitor engagement.
+U1352,0.131,Low,Continue normal engagement and offer optional enrichment.
+U1353,0.338,Medium,Send a supportive reminder and monitor engagement.
+U1354,0.287,Low,Continue normal engagement and offer optional enrichment.
+U1355,0.218,Low,Continue normal engagement and offer optional enrichment.
+U1356,0.362,Medium,Send a supportive reminder and monitor engagement.
+U1357,0.267,Low,Continue normal engagement and offer optional enrichment.
+U1358,0.153,Low,Continue normal engagement and offer optional enrichment.
+U1359,0.157,Low,Continue normal engagement and offer optional enrichment.
+U1360,0.421,Medium,Send a supportive reminder and monitor engagement.
+U1361,0.547,Medium,Send a supportive reminder and monitor engagement.
+U1362,0.337,Medium,Send a supportive reminder and monitor engagement.
+U1363,0.053,Low,Continue normal engagement and offer optional enrichment.
+U1364,0.248,Low,Continue normal engagement and offer optional enrichment.
+U1365,0.456,Medium,Send a supportive reminder and monitor engagement.
+U1366,0.448,Medium,Send a supportive reminder and monitor engagement.
+U1367,0.748,High,Offer a personal check-in and help identify barriers.
+U1368,0.728,High,Offer a personal check-in and help identify barriers.
+U1369,0.157,Low,Continue normal engagement and offer optional enrichment.
+U1370,0.755,High,Offer a personal check-in and help identify barriers.
+U1371,0.306,Medium,Send a supportive reminder and monitor engagement.
+U1372,0.182,Low,Continue normal engagement and offer optional enrichment.
+U1373,0.212,Low,Continue normal engagement and offer optional enrichment.
+U1374,0.666,High,Offer a personal check-in and help identify barriers.
+U1375,0.353,Medium,Send a supportive reminder and monitor engagement.
+U1376,0.248,Low,Continue normal engagement and offer optional enrichment.
+U1377,0.277,Low,Continue normal engagement and offer optional enrichment.
+U1378,0.607,High,Offer a personal check-in and help identify barriers.
+U1379,0.418,Medium,Send a supportive reminder and monitor engagement.
+U1380,0.233,Low,Continue normal engagement and offer optional enrichment.
+U1381,0.592,Medium,Send a supportive reminder and monitor engagement.
+U1382,0.159,Low,Continue normal engagement and offer optional enrichment.
+U1383,0.323,Medium,Send a supportive reminder and monitor engagement.
+U1384,0.29,Low,Continue normal engagement and offer optional enrichment.
+U1385,0.278,Low,Continue normal engagement and offer optional enrichment.
+U1386,0.918,High,Offer a personal check-in and help identify barriers.
+U1387,0.803,High,Offer a personal check-in and help identify barriers.
+U1388,0.518,Medium,Send a supportive reminder and monitor engagement.
+U1389,0.258,Low,Continue normal engagement and offer optional enrichment.
+U1390,0.203,Low,Continue normal engagement and offer optional enrichment.
+U1391,0.701,High,Offer a personal check-in and help identify barriers.
+U1392,0.202,Low,Continue normal engagement and offer optional enrichment.
+U1393,0.264,Low,Continue normal engagement and offer optional enrichment.
+U1394,0.542,Medium,Send a supportive reminder and monitor engagement.
+U1395,0.128,Low,Continue normal engagement and offer optional enrichment.
+U1396,0.777,High,Offer a personal check-in and help identify barriers.
+U1397,0.506,Medium,Send a supportive reminder and monitor engagement.
+U1398,0.29,Low,Continue normal engagement and offer optional enrichment.
+U1399,0.742,High,Offer a personal check-in and help identify barriers.
+U1400,0.825,High,Offer a personal check-in and help identify barriers.
+U1401,0.866,High,Offer a personal check-in and help identify barriers.
+U1402,0.335,Medium,Send a supportive reminder and monitor engagement.
+U1403,0.611,High,Offer a personal check-in and help identify barriers.
+U1404,0.237,Low,Continue normal engagement and offer optional enrichment.
+U1405,0.176,Low,Continue normal engagement and offer optional enrichment.
+U1406,0.305,Medium,Send a supportive reminder and monitor engagement.
+U1407,0.248,Low,Continue normal engagement and offer optional enrichment.
+U1408,0.532,Medium,Send a supportive reminder and monitor engagement.
+U1409,0.2,Low,Continue normal engagement and offer optional enrichment.
+U1410,0.235,Low,Continue normal engagement and offer optional enrichment.
+U1411,0.244,Low,Continue normal engagement and offer optional enrichment.
+U1412,0.444,Medium,Send a supportive reminder and monitor engagement.
+U1413,0.363,Medium,Send a supportive reminder and monitor engagement.
+U1414,0.212,Low,Continue normal engagement and offer optional enrichment.
+U1415,0.219,Low,Continue normal engagement and offer optional enrichment.
+U1416,0.52,Medium,Send a supportive reminder and monitor engagement.
+U1417,0.174,Low,Continue normal engagement and offer optional enrichment.
+U1418,0.741,High,Offer a personal check-in and help identify barriers.
+U1419,0.194,Low,Continue normal engagement and offer optional enrichment.
+U1420,0.405,Medium,Send a supportive reminder and monitor engagement.
+U1421,0.228,Low,Continue normal engagement and offer optional enrichment.
+U1422,0.85,High,Offer a personal check-in and help identify barriers.
+U1423,0.453,Medium,Send a supportive reminder and monitor engagement.
+U1424,0.567,Medium,Send a supportive reminder and monitor engagement.
+U1425,0.704,High,Offer a personal check-in and help identify barriers.
+U1426,0.41,Medium,Send a supportive reminder and monitor engagement.
+U1427,0.435,Medium,Send a supportive reminder and monitor engagement.
+U1428,0.541,Medium,Send a supportive reminder and monitor engagement.
+U1429,0.253,Low,Continue normal engagement and offer optional enrichment.
+U1430,0.132,Low,Continue normal engagement and offer optional enrichment.
+U1431,0.205,Low,Continue normal engagement and offer optional enrichment.
+U1432,0.792,High,Offer a personal check-in and help identify barriers.
+U1433,0.38,Medium,Send a supportive reminder and monitor engagement.
+U1434,0.357,Medium,Send a supportive reminder and monitor engagement.
+U1435,0.29,Low,Continue normal engagement and offer optional enrichment.
+U1436,0.53,Medium,Send a supportive reminder and monitor engagement.
+U1437,0.103,Low,Continue normal engagement and offer optional enrichment.
+U1438,0.361,Medium,Send a supportive reminder and monitor engagement.
+U1439,0.318,Medium,Send a supportive reminder and monitor engagement.
+U1440,0.374,Medium,Send a supportive reminder and monitor engagement.
+U1441,0.489,Medium,Send a supportive reminder and monitor engagement.
+U1442,0.763,High,Offer a personal check-in and help identify barriers.
+U1443,0.278,Low,Continue normal engagement and offer optional enrichment.
+U1444,0.459,Medium,Send a supportive reminder and monitor engagement.
+U1445,0.218,Low,Continue normal engagement and offer optional enrichment.
+U1446,0.411,Medium,Send a supportive reminder and monitor engagement.
+U1447,0.654,High,Offer a personal check-in and help identify barriers.
+U1448,0.593,Medium,Send a supportive reminder and monitor engagement.
+U1449,0.363,Medium,Send a supportive reminder and monitor engagement.
+U1450,0.208,Low,Continue normal engagement and offer optional enrichment.
+U1451,0.201,Low,Continue normal engagement and offer optional enrichment.
+U1452,0.177,Low,Continue normal engagement and offer optional enrichment.
+U1453,0.333,Medium,Send a supportive reminder and monitor engagement.
+U1454,0.614,High,Offer a personal check-in and help identify barriers.
+U1455,0.396,Medium,Send a supportive reminder and monitor engagement.
+U1456,0.453,Medium,Send a supportive reminder and monitor engagement.
+U1457,0.647,High,Offer a personal check-in and help identify barriers.
+U1458,0.654,High,Offer a personal check-in and help identify barriers.
+U1459,0.307,Medium,Send a supportive reminder and monitor engagement.
+U1460,0.196,Low,Continue normal engagement and offer optional enrichment.
+U1461,0.411,Medium,Send a supportive reminder and monitor engagement.
+U1462,0.183,Low,Continue normal engagement and offer optional enrichment.
+U1463,0.381,Medium,Send a supportive reminder and monitor engagement.
+U1464,0.219,Low,Continue normal engagement and offer optional enrichment.
+U1465,0.384,Medium,Send a supportive reminder and monitor engagement.
+U1466,0.524,Medium,Send a supportive reminder and monitor engagement.
+U1467,0.191,Low,Continue normal engagement and offer optional enrichment.
+U1468,0.121,Low,Continue normal engagement and offer optional enrichment.
+U1469,0.185,Low,Continue normal engagement and offer optional enrichment.
+U1470,0.264,Low,Continue normal engagement and offer optional enrichment.
+U1471,0.811,High,Offer a personal check-in and help identify barriers.
+U1472,0.201,Low,Continue normal engagement and offer optional enrichment.
+U1473,0.106,Low,Continue normal engagement and offer optional enrichment.
+U1474,0.294,Low,Continue normal engagement and offer optional enrichment.
+U1475,0.122,Low,Continue normal engagement and offer optional enrichment.
+U1476,0.339,Medium,Send a supportive reminder and monitor engagement.
+U1477,0.468,Medium,Send a supportive reminder and monitor engagement.
+U1478,0.333,Medium,Send a supportive reminder and monitor engagement.
+U1479,0.175,Low,Continue normal engagement and offer optional enrichment.
+U1480,0.543,Medium,Send a supportive reminder and monitor engagement.
+U1481,0.434,Medium,Send a supportive reminder and monitor engagement.
+U1482,0.261,Low,Continue normal engagement and offer optional enrichment.
+U1483,0.578,Medium,Send a supportive reminder and monitor engagement.
+U1484,0.149,Low,Continue normal engagement and offer optional enrichment.
+U1485,0.16,Low,Continue normal engagement and offer optional enrichment.
+U1486,0.505,Medium,Send a supportive reminder and monitor engagement.
+U1487,0.494,Medium,Send a supportive reminder and monitor engagement.
+U1488,0.22,Low,Continue normal engagement and offer optional enrichment.
+U1489,0.307,Medium,Send a supportive reminder and monitor engagement.
+U1490,0.089,Low,Continue normal engagement and offer optional enrichment.
+U1491,0.215,Low,Continue normal engagement and offer optional enrichment.
+U1492,0.599,Medium,Send a supportive reminder and monitor engagement.
+U1493,0.361,Medium,Send a supportive reminder and monitor engagement.
+U1494,0.192,Low,Continue normal engagement and offer optional enrichment.
+U1495,0.542,Medium,Send a supportive reminder and monitor engagement.
+U1496,0.842,High,Offer a personal check-in and help identify barriers.
+U1497,0.106,Low,Continue normal engagement and offer optional enrichment.
+U1498,0.372,Medium,Send a supportive reminder and monitor engagement.
+U1499,0.496,Medium,Send a supportive reminder and monitor engagement.
+U1500,0.123,Low,Continue normal engagement and offer optional enrichment.
